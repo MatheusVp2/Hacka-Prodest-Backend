@@ -1,6 +1,11 @@
 # ⚠️ Informações
 Repositorio do projeto da equipe 'Wadababu' no Hackathon Cibercidadão promovido pela Prodest.
 
+### 🧩 Rodando o projeto
+* Node instalado na maquina
+* npm -i para instalar as dependencias
+* npm run dev para rodar a aplicação
+
 ### 🚀 Membros da Equipe
 * [Aquiles Silva Aguiar](https://www.linkedin.com/in/aquilesaguiar/)
 * [Arthur Cezar dos Santos](https://www.linkedin.com/in/arthurcezars/)
