@@ -1,4 +1,14 @@
 import { Request, Response, Router } from 'express';
-// import { findAll,findByAgencia,findMunicipio } from "../repository/segurancaRep";
+import { findAll,findMunicipio } from "../repository/segurancaRep";
 export default {
+    get : async (req: Request, res: Response) => {
+        const data = findAll();
+        return res.status(200).json({ quantidade: data.length ,dados: data })
+    },
+
+    getFiltros : async (req: Request, res: Response) => {
+        const {municipio} = req.query; 
+        const data = findMunicipio(municipio);
+        return res.status(200).json({ quantidade: data.length ,dados: data })
+    },
 }
