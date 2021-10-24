@@ -36,7 +36,14 @@ A equipe organizadora do hackaton deixou livre a escolha das tecnologias, então
 * [Python](https://www.python.org/) - Tratamento de dados
 * [Node](https://nodejs.org/en/) - API
 * [JavaScript](https://www.javascript.com/) - Front-end
-  
+
+### ✨ Tecnologias
+
+* [Dataset GOV](https://dados.es.gov.br/dataset/)
+* [Ceturb](https://sistemas.es.gov.br/webservices/ceturb/onibus/Help)
+
+
+
 ### 🔀 Rotas
 Lista de rotas da API.
 * /api/v1/educacao/  - /api/v1/educacao/filtro?municipio=Serra
