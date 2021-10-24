@@ -1,0 +1,401 @@
+﻿LOGRADOURO;COD_BAIRRO;ID_TIPO;TELEFONE;DATA;ID_EQUIPAM;ID_TIPO_DE;COD_MUNICI;NOME_BAIRR;NOME_MUNIC;NOME;AGENCIA;COORDX;COORDY;Id
+Rodovia do Café, Km 01, 901, Carlos Germano Naumann, Colatina;0;0;0;;0;0;3201506;;Colatina;3ª COMPANHIA INDEPENDENTE;Bombeiro Militar;-40,6576000823777;-19,5088989672021;1
+Rodovia BR-259, km 58, Novo Horizonte, Colatina;0;0;0;;0;0;3201506;;Colatina;2ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL;Polícia Militar;-40,6684998718616;-19,52379549237;2
+Rua Gaubêncio de Souza, 305, Itapina, Colatina;0;0;0;;0;0;3201506;;Colatina;DPM DE ITAPINA;Polícia Militar;-40,8149997593278;-19,5334049382178;3
+Rodovia ES-080, Ponte do Pancas, Colatina;0;0;0;;0;0;3201506;;Colatina;3ª COMPANHIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO - POSTO 12;Polícia Militar;-40,6803997951222;-19,4095022354334;4
+Rua São Braz,183, Perpétuo Socorro, Colatina;0;0;0;;0;0;3201506;;Colatina;DPM DE PERPÉTUO SOCORRO;Polícia Militar;-40,6282996749422;-19,540604515347;5
+Rua Santa Maria, Boapaba, Colatina;0;0;0;;0;0;3201506;;Colatina;DPM DE BOAPABA;Polícia Militar;-40,6191002535392;-19,6333970842071;6
+Rua Antônio Perutti,723, Honório Fraga, Colatina;0;0;0;;0;0;3201506;;Colatina;1ª COMPANHIA DO 8º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,6631994563426;-19,5280000655269;7
+Rua Castelo Branco, Nossa Senhora Aparecida, Colatina;0;0;0;;0;0;3201506;;Colatina;SERVIÇO DE ATENDIMENTO AO CIDADÃO - NOSSA SENHORA APARECIDA;Polícia Militar;-40,6414002478881;-19,5234021609458;8
+Rua Pedro Epichim, 68, Colatina Velha, Colatina;0;0;0;;0;0;3201506;;Colatina;8º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,6231997212881;-19,5308030035353;9
+Rua João Batista do Vale, Ayrton Senna, Colatina;0;0;0;;0;0;3201506;;Colatina;DPM DE AYRTON SENNA;Polícia Militar;-40,6552001166642;-19,4941951319049;10
+Rua Cinco de Julho, 97, São João Pequeno, Colatina;0;0;0;;0;0;3201506;;Colatina;DPM DE SÃO JOÃO PEQUENO;Polícia Militar;-40,7541000198874;-19,3477990128033;11
+Rua Enzo Ferrari, Villa Verdi, Colatina;0;0;0;;0;0;3201506;;Colatina;DPM DE VILLA VERDI;Polícia Militar;-40,6459995485661;-19,5138020960638;12
+Avenida Presidente Kennedy, 1243, Vila Lenira, Colatina;0;0;0;;0;0;3201506;;Colatina;3º PELOTÃO DA 3ª CIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO;Polícia Militar;-40,6326000743801;-19,5510996705615;13
+Avenida Silvio Avidos, 2055, São Silvano, Colatina;0;0;0;;0;0;3201506;;Colatina;COMANDO DE POLÍCIA OSTENSIVA NOROESTE - CPO NOROESTE;Polícia Militar;-40,6466003125036;-19,517898180369;14
+Rua Benjamin Constant, 110, Marista, Colatina;0;0;0;;0;0;3201506;;Colatina;15ª DELEGACIA REGIONAL - COLATINA;Polícia Civil;-40,6380999774012;-19,5395944133167;15
+Rua Benjamim Constante,110, Bairro Marista, Colatina;0;0;0;;0;0;3201506;;Colatina;SUPERINTENDÊNCIA DE POLÍCIA REGIONAL NOROESTE - SPRNO;Polícia Civil;-40,6380999774012;-19,5395944133167;16
+Rua Benjamin Constant, 110, Marista, Colatina;0;0;0;;0;0;3201506;;Colatina;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,6380000696597;-19,5397037304554;17
+Praça Guilherme Passamani, Centro, Marilândia;0;0;0;;0;0;3203353;;Marilândia;DPM DE MARILÂNDIA;Polícia Militar;-40,5410998632954;-19,4094996371222;18
+Avenida Vicente Padovan, Sapucáia, Marilândia;0;0;0;;0;0;3203353;;Marilândia;DPM DE SAPUCÁIA;Polícia Militar;-40,6074999129833;-19,3640046250427;19
+Rua São Tarcísio, 210, Centro, Marilândia;0;0;0;;0;0;3203353;;Marilândia;DELEGACIA DE MARILANDIA;Polícia Civil;-40,542100367773;-19,4124003248646;20
+Rua Lourenço Martins, 82, Centro, Vila Valério;0;0;0;;0;0;3205176;;Vila Valério;DPM DE VILA VALERIO;Polícia Militar;-40,3907001860317;-19,000398377377;21
+Rua Agenor Lemos Bastos, Centro, Rio Novo do Sul;0;0;0;;0;0;3204401;;Rio Novo do Sul;DPM DE RIO NOVO DO SUL;Polícia Militar;-40,9312997596557;-20,8650057226771;22
+Rua Capitão Bley, 13, Centro, Rio Novo do Sul;0;0;0;;0;0;3204401;;Rio Novo do Sul;DELEGACIA DE POLÍCIA DE RIO NOVO DO SUL;Polícia Civil;-40,9326001107103;-20,8641962287603;23
+Rua Jair Cardoso, Centro, Piúma;0;0;0;;0;0;3204203;;Piúma;2º PELOTÃO DA 10ª COMPANHIA INDEPENDENTE DA POLÍCIA MILITAR;Polícia Militar;-40,7267005685508;-20,8359036798728;24
+Rodovia Jorge Ferris, Niterói, Piúma;0;0;0;;0;0;3204203;;Piúma;DELEGACIA DE POLÍCIA DE PIÚMA;Polícia Civil;-40,7247000960076;-20,8348037735405;25
+Avenida Coronel Antonio Duarte, 339, Centro, Iconha;0;0;0;;0;0;3202603;;Iconha;4º PELOTÃO DA 10ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,8107002654484;-20,7937941677268;26
+Rua Deolindo Paganini, 209, Jardim Jandyra, Iconha;0;0;0;;0;0;3202603;;Iconha;DELEGACIA DE ICONHA;Polícia Civil;-40,8160002039221;-20,7875960844995;27
+Avenida Carlos Lindenberg, Alecrim, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;2ª COMPANHIA DO 1º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,3413000427615;-20,3547066352454;28
+Praça de Paul, Paul, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;SERVIÇO DE ATENDIMENTO AO CIDADÃO - PAUL;Polícia Militar;-40,338199957842;-20,3282052554131;29
+Rua Inhoá, Praça de Prainha, Centro,Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;1ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2912000634138;-20,3277998139756;30
+Rua Guaraná, Rio Marinho, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DPM DE RIO MARINHO;Polícia Militar;-40,3526995732977;-20,3645023350288;31
+Avenida Carlos Lindenberg, Cobilândia, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;1ª COMPANHIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO - POSTO 05;Polícia Militar;-40,3407996534195;-20,3549995799479;32
+Praça Vereador Sebastião Cibien, Cobilândia, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;3ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3559997775237;-20,3554965478574;33
+Rua Silvia de Oliveira Simôes, Parque das Gaivotas, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;2ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3111003322663;-20,373700662716;34
+Avenida Jerônimo Monteiro, 1286, Centro, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;SERVIÇO DE ATENDIMENTO AO CIDADÃO - CENTRO;Polícia Militar;-40,2942003451816;-20,3358003422121;35
+Avenida Cristóvão Colombo, Cristóvão Colombo, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;SERVIÇO DE ATENDIMENTO AO CIDADÃO - CRISTOVAO COLOMBO;Polícia Militar;-40,3004999553216;-20,3452940744044;36
+Avenida Jair de Andrade, 50, Itapoã, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;SERVIÇO DE ATENDIMENTO AO CIDADÃO - ITAPOÃ;Polícia Militar;-40,2925997668565;-20,3509993177765;37
+Rua Araças,  Praça de Araças, Araças, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;SERVIÇO DE ATENDIMENTO AO CIDADÃO - ARACAS;Polícia Militar;-40,3267995636413;-20,3862934688704;38
+Rua São Luiz, 160, Condomínio Plácido Barcelos, Aribiri, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;5ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3133995766767;-20,3421981066065;39
+Rodovia ES-060, km 13, Barra do Jucu, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;POSTO DE TRÂNSITO 13;Polícia Militar;-40,3270001972491;-20,4103958072044;40
+Avenida Hugo Musso, 463, Praia da Costa, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;SERVIÇO DE ATENDIMENTO AO CIDADÃO - PRAIA DA COSTA;Polícia Militar;-40,2835001125501;-20,3367014045867;41
+Avenida Nossa Senhora da Penha, 118, Ibes, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;4º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3174000088213;-20,3480042823278;42
+Avenida Equador, Residencial Jabaeté, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;13ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,3563005399639;-20,4433984232164;43
+Rua Pedro Bravim, Bairro Interlagos, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DPM DE INTERLAGOS;Polícia Militar;-40,3507000312513;-20,4789016308507;44
+Rua Judith Goes, Ponta da Fruta, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DPM DE PONTA DA FRUTA;Polícia Militar;-40,3613000885812;-20,5174041358792;45
+Rua Antonio Elias do Espírito Santo, Terra Vermelha, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DPM DE TERRA VERMELHA;Polícia Militar;-40,354199757804;-20,4455017113127;46
+Rua Professor João Cardoso,120, Barra do Jucu, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DPM DA BARRA DO JUCU;Polícia Militar;-40,3269000882515;-20,4221955153034;47
+Estrada  Ayrton Senna da Silva, ES-388, Xuri, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DPM DE XURI;Polícia Militar;-40,4317004163545;-20,4777020073662;48
+Rua Jorge Majestade, Novo México, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;8º DISTRITO POLICIAL;Polícia Civil;-40,321799836515;-20,3701958764968;49
+Avenida Vereador Sebastião Cibien, 148, Cobilândia, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;9º DISTRITO POLICIAL;Polícia Civil;-40,3567999511214;-20,3552012318602;50
+Rua Dom Fernando, 8, Santa Inês, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;7º DISTRITO POLICIAL;Polícia Civil;-40,3116000010446;-20,3486984153669;51
+Rua Amália, Jaburuna, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;2ª DELEGACIA REGIONAL - VILA VELHA;Polícia Civil;-40,3013998962068;-20,3361986060691;52
+Avenida Luciano das Neves, 430, Prainha, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,2924996803431;-20,332397853169;53
+Avenida Luciano das Neves, 430, Prainha, Vila Velha;0;0;0;;0;0;3205200;;Vila Velha;6º DISTRITO POLICIAL;Polícia Civil;-40,2924996236022;-20,332506268687;54
+Rodovia BR-262, Km 108, Bicuíba, Venda Nova do Imigrante;0;0;0;;0;0;3205069;;Venda Nova do Imigrante;2ª COMPANHIA DO 4º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-41,1775999629125;-20,3358042885901;55
+Rua Lourenço Lourenção,102, Centro, Venda Nova do Imigrante;0;0;0;;0;0;3205069;;Venda Nova do Imigrante;DPM DE VENDA NOVA DO IMIGRANTE;Polícia Militar;-41,1292997495846;-20,3361015971988;56
+Avenida Fioravante Zandonadi, 30, Marmin, Venda Nova do Imigrante;0;0;0;;0;0;3205069;;Venda Nova do Imigrante;COMANDO DE POLÍCIA OSTENSIVA SERRANA - CPO SERRANA;Polícia Militar;-41,1356998117302;-20,3269016076607;57
+Rua 29 de junho, 1945, Bananeiras, Venda Nova do Imigrante;0;0;0;;0;0;3205069;;Venda Nova do Imigrante;11ª DELEGACIA REGIONAL - VENDA NOVA DO IMIGRANTE;Polícia Civil;-41,1444998239941;-20,3266945051168;58
+Rua 29 de Junho,1945, bananeiras, Venda Nova do Imigrante;0;0;0;;0;0;3205069;;Venda Nova do Imigrante;SUPERINTENDÊNCIA DE POLÍCIA REGIONAL SERRANA - SPRSR;Polícia Civil;-41,1444002655625;-20,3266957266791;59
+Avenida Oscar Alves Rangel, Volta Redonda, Castelo;0;0;0;;0;0;3201407;;Castelo;UIP DE CASTELO;Polícia Militar;-41,2138002705436;-20,60219959004;60
+Rua Soares, 16, Independência, Castelo;0;0;0;;0;0;3201407;;Castelo;DELEGACIA DE CASTELO;Polícia Civil;-41,2021996060405;-20,5994036716375;61
+Avenida Linhares,1199, Praia Grande, Fundão;0;0;0;;0;0;3202207;;Fundão;DPM DE PRAIA GRANDE;Polícia Militar;-40,1893000564703;-20,0441007967813;62
+Rua Interventor Santos Neves, Centro, Fundão;0;0;0;;0;0;3202207;;Fundão;DPM DE FUNDAO;Polícia Militar;-40,4040005523918;-19,9330002523288;63
+Rua João Miguel, 06, Timbuí, Fundão;0;0;0;;0;0;3202207;;Fundão;DPM DE TIMBUÍ;Polícia Militar;-40,4117001909041;-20,0007981587288;64
+Rua Everaldino Silva, 60, Centro, Fundão;0;0;0;;0;0;3202207;;Fundão;NUCLEO POLICIAL DE FUNDAO;Polícia Civil;-40,4034999041785;-19,9329951730765;65
+Rodovia ES-490, Km 16, Paineiras, Itapemirim;0;0;0;;0;0;3202801;;Itapemirim;DPM DE PAINEIRAS;Polícia Militar;-40,9658996160805;-20,9803985730922;66
+Rua Donário Pessanha, Itaoca, Itapemirim;0;0;0;;0;0;3202801;;Itapemirim;DPM DE ITAOCA;Polícia Militar;-40,7826005283662;-20,9035987104853;67
+Rua Coronel Marcondes de Souza, 107, Centro, Itapemirm;0;0;0;;0;0;3202801;;Itapemirim;9ª DELEGACIA REGIONAL - ITAPEMIRIM;Polícia Civil;-40,8354995725312;-21,0096006926283;68
+Rua Professor José Ferreira Borges, 06,Centro, Atílio Vivacqua;0;0;0;;0;0;3200706;;Atílio Vivacqua;DPM DE ATÍLIO VIVACQUA;Polícia Militar;-41,1982999103228;-20,9139992821974;69
+Rua José Ferreira Ramos, 25, Centro, Atílio Vivacqua;0;0;0;;0;0;3200706;;Atílio Vivacqua;DELEGACIA DE ATILIO VIVACQUA;Polícia Civil;-41,1995003666765;-20,9138032068812;70
+Avenida Francisco Mardegan, Marbrasa, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;3º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-41,1601004402582;-20,8410019503142;71
+Avenida Beira Rio, 100, Guandu, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;1ª COMPANHIA DO 9º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,1218998707205;-20,8451010954541;72
+Rua Quintino Bocaiuva, Praça de Paraíso, Paraíso, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;SERVIÇO DE ATENDIMENTO AO CIDADÃO - PARAÍSO;Polícia Militar;-41,1208997643888;-20,8627061696996;73
+Trevo de Marbrasa, Marbrasa, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;POSTO DE TRÂNSITO;Polícia Militar;-41,1587996088587;-20,8418040522903;74
+Avenida Nossa Senhora da Consolação, 234, Vila Rica, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;CIODES SUL;Polícia Militar;-41,1295997525736;-20,8429012386496;75
+Rua Ary Amaral, Aeroporto, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;4ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL;Polícia Militar;-41,1834995937597;-20,8306989393266;76
+Rua Sisypho Sardenberg, 02, São Luiz Gonzaga, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;9º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,091699538618;-20,852598416814;77
+Praça José Lunz, Vargem Grande de Soturno, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;DPM DE SOTURNO;Polícia Militar;-41,0605003736779;-20,7650014739175;78
+Avenida Nossa Senhora da Consolação, 234, Vila Rica, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;COMANDO DE POLÍCIA OSTENSIVA SUL - CPOS;Polícia Militar;-41,1297000849471;-20,8429993330349;79
+Rua 25 de março, 126, Centro, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-41,1159001062547;-20,8477040816817;80
+Rua Carlos Marão, 102, BNH, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;7ª DELEGACIA REGIONAL - CACHOEIRO DE ITAPEMIRIM;Polícia Civil;-41,1542002094693;-20,8344023594553;81
+Rua Carlos Marão, 102, BNH, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;SUPERINTENDÊNCIA DE POLÍCIA REGIONAL SUL - SPRS;Polícia Civil;-41,1542001550534;-20,834601042606;82
+Rua Carlos Marão, 102, Luiz Tinoco da Fonseca, Cachoeiro de Itapemirim;0;0;0;;0;0;3201209;;Cachoeiro de Itapemirim;DEL. DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP C. ITAPEMIRIM;Polícia Civil;-41,1541997020288;-20,8345017070713;83
+Rua Boa Esperança, 345, Centro, Sooretama;0;0;0;;0;0;3205010;;Sooretama;DPM DE SOORETAMA;Polícia Militar;-40,100300218255;-19,1905974135024;84
+Avenida Cristo Rei, 33, Centro, Sooretama;0;0;0;;0;0;3205010;;Sooretama;DELEGACIA DE POLÍCIA DE SOORETAMA;Polícia Civil;-40,0954004243499;-19,1886026306514;85
+Avenida Presidente Castelo Branco, 476, Bela Vista, Aracruz;0;0;0;;0;0;3200607;;Aracruz;2ª COMPANHIA INDEPENDENTE;Bombeiro Militar;-40,2727998813737;-19,8307988841615;86
+Rodovia ES-010, Km 45, Pontal de Piraqueaçu, Aracruz;0;0;0;;0;0;3200607;;Aracruz;POSTO DE TRÂNSITO;Polícia Militar;-40,1500000999929;-19,9441954649363;87
+Avenida São Benedito, Vila do Riacho, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DE VILA DO RIACHO;Polícia Militar;-40,044500152141;-19,7524053568481;88
+Avenida Professor Aparício Alvarenga, Barra do Riacho, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DA BARRA DO RIACHO;Polícia Militar;-40,060799636439;-19,8268992316817;89
+Rua Tenente Coronel Paixão, Santa Cruz, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DE SANTA CRUZ;Polícia Militar;-40,1552002774675;-19,9541005712599;90
+Rodovia ES-010, Barra do Sahy, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DE BARRA DO SAHY;Polícia Militar;-40,0869004219397;-19,8783985995856;91
+Avenida dos Coqueiros, Coqueiral, Aracruz;0;0;0;;0;0;3200607;;Aracruz;3ª COMPANHIA DO 5º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,1460996119936;-19,9307941401202;92
+Avenida Gabriel Pandolfi, Guaraná, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DE GUARANA;Polícia Militar;-40,2595005975179;-19,678306096155;93
+Rodovia Primo Bitti, Santa Rosa, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DE SANTA ROSA;Polícia Militar;-40,2304002602751;-19,9040013789618;94
+Rua David Lechi, Jacupemba, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DPM DE JACUPEMBA;Polícia Militar;-40,1981000565527;-19,5875035891909;95
+Avenida Venâncio Flores, 1161, Centro, Aracruz;0;0;0;;0;0;3200607;;Aracruz;1ª COMPANHIA DO 5º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2759999286467;-19,8219035351356;96
+Avenida Demócrito Moreira, 60, Fátima, Aracruz;0;0;0;;0;0;3200607;;Aracruz;5º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2648000814107;-19,8289041717282;97
+Avenida Venâncio Flores, 1333, Centro, Aracruz;0;0;0;;0;0;3200607;;Aracruz;13ª DELEGACIA REGIONAL - ARACRUZ;Polícia Civil;-40,2756999038221;-19,8201980392192;98
+Rua Padre Luiz Parenzi, 1333, Centro, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP ARACRUZ;Polícia Civil;-40,2756004576181;-19,8202981362927;99
+Rua Padre Luiz Parenzi, 1333, Centro, Aracruz;0;0;0;;0;0;3200607;;Aracruz;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,2758002149684;-19,8202063575235;100
+Rua São Sebastião, Caramuru, Santa Maria de Jetibá;0;0;0;;0;0;3204559;;Santa Maria de Jetibá;DPM DE CARAMURU;Polícia Militar;-40,6764004748835;-20,0980061682862;101
+Avenida Frederico Grulke, 401, Centro, Santa Maria de Jetibá;0;0;0;;0;0;3204559;;Santa Maria de Jetibá;DPM DE SANTA MARIA DE JETIBÁ;Polícia Militar;-40,7401999674319;-20,031101297138;102
+Avenida João Pedro Louvers, 505, São João do Garrafão, Santa Maria de Jetibá;0;0;0;;0;0;3204559;;Santa Maria de Jetibá;DPM DE SÃO JOÃO DO GARRAFÃO;Polícia Militar;-40,9461000493738;-20,1531996450252;103
+Ladeira Manoel Candeira, 84, Centro, Santa Maria de Jetibá;0;0;0;;0;0;3204559;;Santa Maria de Jetibá;DELEGACIA DE POLÍCIA DE SANTA MARIA DE JETIBA;Polícia Civil;-40,7395996758645;-20,0310981667095;104
+Rodovia ES-162, Avenida Olimpio Pinto Campos Figueiredo, Centro, Presidente Kennedy;0;0;0;;0;0;3204302;;Presidente Kennedy;DPM DE PRESIDENTE KENNEDY;Polícia Militar;-41,043900128351;-21,0988020653882;105
+Rua Demétrio Calassa, 233, Centro, Presidente Kennedy;0;0;0;;0;0;3204302;;Presidente Kennedy;DELEGACIA DE POLÍCIA DE PRESIDENTE KENNEDY;Polícia Civil;-41,049000012149;-21,0991017539097;106
+Rua Searon Moraes, 68, Centro, Jerônimo Monteiro;0;0;0;;0;0;3203106;;Jerônimo Monteiro;DPM DE JERONIMO MONTEIRO;Polícia Militar;-41,3922002276313;-20,788297238112;107
+Ladeira da Igualdade, Centro, Jerônimo Monteiro;0;0;0;;0;0;3203106;;Jerônimo Monteiro;DELEGACIA DE JERONIMO MONTEIRO;Polícia Civil;-41,3920998392594;-20,7871066853878;108
+Rua Braulio Machado, Piaçu, Muniz Freire;0;0;0;;0;0;3203700;;Muniz Freire;DPM DE PIAÇU;Polícia Militar;-41,3904999675465;-20,3372019909549;109
+Avenida Helia Martins de Assis, Santa Barbara, Muiniz Freire;0;0;0;;0;0;3203700;;Muniz Freire;DPM DE MUNIZ FREIRE;Polícia Militar;-41,4094998933478;-20,4569973410248;110
+Rua Manoel Alonso Portela, 55, Centro, Muniz Freire;0;0;0;;0;0;3203700;;Muniz Freire;DELEGACIA DE POLÍCIA DE MUNIZ FREIRE;Polícia Civil;-41,4143000166912;-20,4663039978051;111
+Avenida José Grillo, 355, Centro, Conceição do Castelo;0;0;0;;0;0;3201704;;Conceiçao do Castelo;DPM DE CONCEICAO DO CASTELO;Polícia Militar;-41,2440994888673;-20,3571971950871;112
+Avenida Governador Lacerda de Aguiar, 86, Centro, Conceição do Castelo;0;0;0;;0;0;3201704;;Conceiçao do Castelo;DELEGACIA DE CONCEICAO DO CASTELO;Polícia Civil;-41,2461999726946;-20,3572966120686;113
+Rodovia BR-262, Trevo da Ceasa, Cariacica;0;0;0;;0;0;3201308;;Cariacica;6º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,404999562491;-20,3436989042779;114
+Rua Vitória, 14, Itacibá, Cariacica;0;0;0;;0;0;3201308;;Cariacica;1ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3764994880826;-20,3238966216013;115
+Praça de Castelo Branco, Rua 20, Castelo Branco, Cariacica;0;0;0;;0;0;3201308;;Cariacica;5ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3726003320088;-20,3731012506703;116
+Rodovia José Sette, km 4,5, Tucum, Cariacica;0;0;0;;0;0;3201308;;Cariacica;ACADEMIA DE POLÍCIA MILITAR DO ESPÍRITO SANTO - APM;Polícia Militar;-40,3834000207652;-20,3100015334559;117
+Rodovia Governador José Sette, km 2,5, Tucum, Cariacica;0;0;0;;0;0;3201308;;Cariacica;1ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL;Polícia Militar;-40,3805003356034;-20,3180017813712;118
+Rua Presidente Vargas, 23, Cariacica Sede, Cariacica;0;0;0;;0;0;3201308;;Cariacica;4ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,4193003834734;-20,2649039593944;119
+Rua São João, Campo Grande, Cariacica;0;0;0;;0;0;3201308;;Cariacica;2ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3876003278091;-20,342004001911;120
+Rua Beira Linha, Flexal I, Cariacica;0;0;0;;0;0;3201308;;Cariacica;3ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3764995962479;-20,2873977175703;121
+Rodovia Governador José Sette,01, Km 2,5,Tucum, Cariacica;0;0;0;;0;0;3201308;;Cariacica;7º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,381699825685;-20,3174050756775;122
+Rua 15, Quadra 12, Nova Rosa da Penha, Caricacica;0;0;0;;0;0;3201308;;Cariacica;UIP DE NOVA ROSA DA PENHA;Polícia Militar;-40,3887004100547;-20,2628995308335;123
+Avenida Costa Brandão, São Geraldo II, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DPM DE SÃO BENEDITO;Polícia Militar;-40,3822999074634;-20,3540978061123;124
+Rua Dominicana, 143, Rua Dominicana, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DPM DE JARDIM AMÉRICA;Polícia Militar;-40,3657997857592;-20,3346049728854;125
+Rua Fernando Antônio, Bela Aurora, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DPM DE BELA  AURORA;Polícia Militar;-40,3647999463395;-20,349998332882;126
+Rodovia BR-262, Km 6,5, CEASA, Vila Capixaba, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DPM DA CEASA;Polícia Militar;-40,402000037811;-20,341202439758;127
+Avenida Vandelino Santos, Morada de Santa Fé, Caricacica;0;0;0;;0;0;3201308;;Cariacica;DPM DE MORADA DE SANTA FÉ;Polícia Militar;-40,3904001291443;-20,3496066944818;128
+Rua Bogotá, 182, Jardim América, Cariacica;0;0;0;;0;0;3201308;;Cariacica;COMPANHIA INDEPENDENTE DE MISSÕES ESPECIAIS - CIMESP;Polícia Militar;-40,3630995014784;-20,3382940171581;129
+Rua Graciano Neves, Cariacica Sede, Cariacica;0;0;0;;0;0;3201308;;Cariacica;14º DISTRITO POLICIAL;Polícia Civil;-40,4187003212357;-20,2642944855585;130
+Rua Vitória, 4, Itacibá, Cariacica;0;0;0;;0;0;3201308;;Cariacica;15º DISTRITO POLICIAL;Polícia Civil;-40,3765001945228;-20,3230022139376;131
+Rodovia BR-262, Km 03, Vera Cruz, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,3806002049773;-20,3381024179851;132
+Rodovia BR-262, Km 0, Estação Pedro Nolasco, Jardim América, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DEL. ESP. DE PROTECAO AO MEIO AMBIENTE - DEPMA;Polícia Civil;-40,3561999577251;-20,3307949333085;133
+Rua Alfredo Alcure, 1, Rio Branco, Cariacica;0;0;0;;0;0;3201308;;Cariacica;4ª DELEGACIA REGIONAL - CARIACICA;Polícia Civil;-40,3849999302791;-20,3373990612178;134
+Rodovia BR-262, Km 0, Estação Pedro Nolasco, Jardim América, Cariacica;0;0;0;;0;0;3201308;;Cariacica;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP CARIACICA;Polícia Civil;-40,3562001276735;-20,3307045878312;135
+Avenida Mario Gurgel, Rodovia BR-262, Km 3,5, Vera Cruz, Cariacica;0;0;0;;0;0;3201308;;Cariacica;16º DISTRITO POLICIAL;Polícia Civil;-40,3808003011865;-20,338200214672;136
+Avenida Mario Gurgel, Rodovia BR-262, Km 3,5, Vera Cruz, Cariacica;0;0;0;;0;0;3201308;;Cariacica;17º DISTRITO POLICIAL;Polícia Civil;-40,3804000287952;-20,3379955873479;137
+Rua Coronel Vidilino de Lima, Centro, Mucurici;0;0;0;;0;0;3203601;;Mucurici;DPM DE MUCURICI;Polícia Militar;-40,5159003875848;-18,0933987854018;138
+Rua João Lopes, Itabaiana, Mucurici;0;0;0;;0;0;3203601;;Mucurici;DPM DE ITABAIANA;Polícia Militar;-40,5517996814576;-17,9393941108519;139
+Avenida Presidente Kennedy, 01, Mucurici;0;0;0;;0;0;3203601;;Mucurici;DELEGACIA DE POLÍCIA DE MUCURICI;Polícia Civil;-40,5224999218994;-18,0995002874269;140
+Rua São Pedro, 35, Centro, Vila Pavão;0;0;0;;0;0;3205150;;Vila Pavao;DPM DE VILA PAVÃO;Polícia Militar;-40,6046996674291;-18,6202960789116;141
+Rodovia XV de Novembro, Altoé, Nova Venécia;0;0;0;;0;0;3203908;;Nova Venécia;2ª COMPANHIA DO 2º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,3924004383235;-18,6878041960723;142
+Avenida Guanabara, 40, Iolanda, Nova Venécia;0;0;0;;0;0;3203908;;Nova Venécia;2º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,4034001811412;-18,7034987596488;143
+Rua Cedro, Cedrolândia, Nova Venécia;0;0;0;;0;0;3203908;;Nova Venécia;DPM DE CEDROLÂNDIA;Polícia Militar;-40,6858999102104;-18,8090013970868;144
+Avenida Vitória, 17, Centro, Nova Venécia;0;0;0;;0;0;3203908;;Nova Venécia;17ª DELEGACIA REGIONAL - NOVA VENÉCIA;Polícia Civil;-40,3977998602278;-18,7117993394571;145
+Rua Espírito Santo, Centro, Ponto Belo;0;0;0;;0;0;3204252;;Ponto Belo;DPM DE PONTO BELO;Polícia Militar;-40,5395000789808;-18,1235001481382;146
+Rua Gil Veloso, 891,Vila Nova, Pinheiros;0;0;0;;0;0;3204104;;Pinheiros;DPM DE PINHEIROS;Polícia Militar;-40,2102004803732;-18,4149006458128;147
+Rua Claudiomar Sobrinho, Canário, Pinheiros;0;0;0;;0;0;3204104;;Pinheiros;DELEGACIA DE POLÍCIA DE PINHEIROS;Polícia Civil;-40,214399953231;-18,4072017608061;148
+Avenida Getúlio Vargas ,632, Centro, Montanha;0;0;0;;0;0;3203502;;Montanha;DPM DE MONTANHA;Polícia Militar;-40,3648003031964;-18,1262000074823;149
+Rua Anchieta, 651, Centro, Montanha;0;0;0;;0;0;3203502;;Montanha;DELEGACIA DE MONTANHA;Polícia Civil;-40,3611996430141;-18,1289002816001;150
+Rua Doutor Washington Luiz da Silva, Novo Horizonte, Pedro Canário;0;0;0;;0;0;3204054;;Pedro Canário;UIP - 3ª COMPANHIA DO 13 BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-39,9582002611455;-18,2931063408401;151
+Avenida Francisco Porfirio de Souza, Cristal do Norte, Pedro Canário;0;0;0;;0;0;3204054;;Pedro Canário;DPM DE CRISTAL DO NORTE;Polícia Militar;-40,1086003661686;-18,0861026680433;152
+Rua São Roque, Boa Vista, Pedro Canário;0;0;0;;0;0;3204054;;Pedro Canário;DELEGACIA DE POLÍCIA DE PEDRO CANARIO;Polícia Civil;-39,9514001563084;-18,3066963470549;153
+Rodovia Adolpho Serra, Portal de Conceição da Barra, Novo Horizonte, Conceição da Barra;0;0;0;;0;0;3201605;;Conceiçao da Barra;SERVIÇO DE ATENDIMENTO AO CIDADÃO - CONCEIÇÃO DA BARRA;Polícia Militar;-39,7476003370528;-18,5672986542205;154
+Avenida Bento Daher, Itaunas, Conceição da Barra;0;0;0;;0;0;3201605;;Conceiçao da Barra;DPM DE ITAUNAS;Polícia Militar;-39,7096998353359;-18,4199059379969;155
+Avenida Nossa Senhora da Conceição, Centro, Conceição da Barra;0;0;0;;0;0;3201605;;Conceiçao da Barra;2ª COMPANHIA DO 13º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-39,733499769955;-18,5833051929439;156
+Rua Ceará, Braço do Rio Preto, Conceição da Barra;0;0;0;;0;0;3201605;;Conceiçao da Barra;SERVIÇO DE ATENDIMENTO AO CIDADÃO - BRACO DO RIO PRETO;Polícia Militar;-39,9308003235797;-18,4286934010817;157
+Travessa dos Pinheiros, Centro, Conceição da Barra;0;0;0;;0;0;3201605;;Conceiçao da Barra;DELEGACIA DE CONCEICAO DA BARRA;Polícia Civil;-39,7298999333673;-18,5958993566178;158
+Rua São José, Centro, Governador Lindenberg;0;0;0;;0;0;3202256;;Governador Lindenberg;DPM DE GOVERNADOR LINDENBERG;Polícia Militar;-40,4598997233048;-19,25080098682;159
+Rua Alvino Paulo Pereira, Novo Brasil, Governador Lindenberg;0;0;0;;0;0;3202256;;Governador Lindenberg;DPM DE NOVO BRASIL;Polícia Militar;-40,5925004712285;-19,2197988719243;160
+Rua dos Martins Pescadores, Ericina, Ibiraçu;0;0;0;;0;0;3202504;;Ibiraçu;DPM DE IBIRACU;Polícia Militar;-40,3669996033067;-19,8307978071926;161
+Rua Selmira Guasti Gratz, Centro, Ibiraçu;0;0;0;;0;0;3202504;;Ibiraçu;DELEGACIA DE IBIRAÇU;Polícia Civil;-40,3675004736988;-19,8312005383538;162
+Rua Bernadino Monteiro, Centro, Itaguaçu;0;0;0;;0;0;3202702;;Itaguaçu;DPM DE ITAGUACU;Polícia Militar;-40,8553998674377;-19,8015014603122;163
+Rua João Barbosa de Menezes, 137, Centro, Itaguaçu;0;0;0;;0;0;3202702;;Itaguaçu;DELEGACIA DE ITAGUACU;Polícia Civil;-40,8537999144546;-19,8031982503767;164
+Rodovia Armando Martinelli, Cinco Casinhas, São Roque do Canaã;0;0;0;;0;0;3204955;;Sao Roque do Canaa;DPM DE SÃO ROQUE DO CANAÃ;Polícia Militar;-40,6532001371095;-19,7364007314711;165
+Rua Doutor Jaime dos Santos Neves, 44, Barra de Itapemirim, Marataízes;0;0;0;;0;0;3203320;;Marataízes;9ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,8096998772724;-21,0085041764696;166
+Avenida Rubens Rangel, 22, Cidade Nova, Marataízes;0;0;0;;0;0;3203320;;Marataízes;DELEGACIA DE MARATAIZES;Polícia Civil;-40,8169997533282;-21,0281979307674;167
+Rua C, Campo Verde, Viana;0;0;0;;0;0;3205101;;Viana;DPM DE CAMPO VERDE;Polícia Militar;-40,4100003145244;-20,3729024265978;168
+Rua Governador Rubim, 252, Centro, Viana;0;0;0;;0;0;3205101;;Viana;11ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,4967001335422;-20,3909980221743;169
+Avenida Vitória, Marcílio de Noronha, Viana;0;0;0;;0;0;3205101;;Viana;DPM DE MARCÍLIO DE NORONHA;Polícia Militar;-40,4242003817987;-20,3513038093258;170
+Rodovia BR-262, Km 7, CALIR, Guaritas,Viana;0;0;0;;0;0;3205101;;Viana;11ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,4120004141188;-20,3517010006481;171
+Rua Desembargador Levino Chacon, 149, Centro, Viana;0;0;0;;0;0;3205101;;Viana;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP VIANA;Polícia Civil;-40,4972003389259;-20,3923939875992;172
+Avenida Levino Chacon, 149, Centro, Viana;0;0;0;;0;0;3205101;;Viana;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,4972004279213;-20,3925023940382;173
+Rua Desembargador Levino Chacon, 149, Centro, Viana;0;0;0;;0;0;3205101;;Viana;18º DISTRITO POLICIAL;Polícia Civil;-40,4972004279213;-20,3925023940382;174
+Rua Coriolano Guilherme Stein, Paraju, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;DPM DE PARAJU;Polícia Militar;-40,8050002884334;-20,3190947983083;175
+Avenida João Ricardo Schorling, Centro, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;1º PELOTÃO DA 6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,6416997127829;-20,3818972037233;176
+Terminal Rodoviário Manoel Pereira de Jesus, Rua Bernardino Monteiro, 340, Centro, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,6594999050519;-20,3591000430678;177
+Rodovia Serafim Derenzi, Bela Vista, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE BELA VISTA;Polícia Militar;-40,3502999131129;-20,3063934041715;178
+Avenida Modolo, Pedra Azul, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;3º PELOTÃO DA 6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-41,0317005238994;-20,3792987103988;179
+Rua Principal, Santa Isabel, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;DPM DE SANTA ISABEL;Polícia Militar;-40,6230998750293;-20,3818002754087;180
+Travessa Augusto Schwambach, 29, Centro, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;2º PELOTÃO DA 1ª CIA DO BATALHÃO DE POLÍCIA AMBIENTAL;Polícia Militar;-40,6590002347911;-20,3637028066047;181
+Avenida Senador Jeferson de Aguiar, 140, Campinho, Domingos Martins;0;0;0;;0;0;3201902;;Domingos Martins;DELEGACIA DE DOMINGOS MARTINS;Polícia Civil;-40,6600995846781;-20,3625993101529;182
+Avenida Getulio Vargas, 416, Ouro Branco, Alfredo Chaves;0;0;0;;0;0;3200300;;Alfredo Chaves;3º PELOTAO DA 10ª CIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,745900498078;-20,6366992357982;183
+Rua Cais Costa Pinto, 26, Centro, Alfredo Chaves;0;0;0;;0;0;3200300;;Alfredo Chaves;DELEGACIA DE ALFREDO CHAVES;Polícia Civil;-40,748299989305;-20,6349045149151;184
+Rua Armando Walsh, Vale das Palmas, Marechal Floriano;0;0;0;;0;0;3203346;;Marechal Floriano;4º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,6717003308095;-20,4071946976647;185
+Avenida David Canal, Centro, Marechal Floriano;0;0;0;;0;0;3203346;;Marechal Floriano;2º PELOTÃO DA 6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,6757995972277;-20,4104976495736;186
+Avenida dos Imigrantes, Araguaia, Marechal Floriano;0;0;0;;0;0;3203346;;Marechal Floriano;DPM DE ARAGUAIA;Polícia Militar;-40,771399939172;-20,4942988509731;187
+Avenida Arthur Hasse, Alto Marechal, Marechal Floriano;0;0;0;;0;0;3203346;;Marechal Floriano;DELEGACIA DE MARECHAL FLORIANO;Polícia Civil;-40,6729999131013;-20,4066040907673;188
+Rua Vivaldo Rosa Vieira, 23, São Manoel, Alegre;0;0;0;;0;0;3200201;;Alegre;3º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,5356999004658;-20,7744983641985;189
+Praça Henrique Wanderley, 559, Centro, Alegre;0;0;0;;0;0;3200201;;Alegre;6ª DELEGACIA REGIONAL -  ALEGRE;Polícia Civil;-41,5341000331467;-20,7593980217561;190
+Rua Domingos Martins, Centro, Irupi;0;0;0;;0;0;3202652;;Irupi;DPM DE IRUPI;Polícia Militar;-41,6425995850197;-20,3445945300276;191
+Avenida Jalmas Gomes de Freitas, 468, Centro, Irupi;0;0;0;;0;0;3202652;;Irupi;DELEGACIA DE IRUPI;Polícia Civil;-41,6390996107281;-20,3527013481247;192
+Rua Uirapuru, Centro, Jaguaré;0;0;0;;0;0;3203056;;Jaguaré;DPM DE JAGUARÉ;Polícia Militar;-40,0751999440064;-18,9043020954109;193
+Rodovia José Dalvit, 146, Água Limpa, Jaguaré;0;0;0;;0;0;3203056;;Jaguaré;DPM DE ÁGUA LIMPA;Polícia Militar;-39,9741996872821;-18,932195262806;194
+Rua Ciro Rodrigues, 229, Centro, Jaguaré;0;0;0;;0;0;3203056;;Jaguaré;DELEGACIA DE JAGUARE;Polícia Civil;-40,0776000300013;-18,9076949525716;195
+Rodovia Otovarino Duarte Santos, Aviação, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;1ª COMPANHIA INDEPENDENTE;Bombeiro Militar;-39,8355004082422;-18,7261030992873;196
+Avenida Dom José Dalvid, Bom Sucesso, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;DPM DE BOM SUCESSO;Polícia Militar;-39,8849998232489;-18,719802822818;197
+Avenida João XXIII, 1544, Boa Vista, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;3ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL;Polícia Militar;-39,8611996471541;-18,7209981956921;198
+Rodovia Othovarino Duarte Santos, Guriri, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;SERVIÇO DE ATENDIMENTO AO CIDADÃO - GURIRI;Polícia Militar;-39,7519996726182;-18,7378982221192;199
+Rodovia 381, Km 41, Miguel Cury Carneiro, Nestor Gomes, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;SERVIÇO DE ATENDIMENTO AO CIDADÃO - NESTOR GOMES;Polícia Militar;-40,2244997877487;-18,7292953062233;200
+Avenida João XXIII, 1544, Boa Vista, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;13º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-39,851500046164;-18,7150057099423;201
+Rua Principal, Santa Maria, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;DPM DE SANTA MARIA;Polícia Militar;-40,1396001783709;-18,5821011088121;202
+Rua Doutor Arlindo Sodré, 162, Centro, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;18ª DELEGACIA REGIONAL - SÃO MATEUS;Polícia Civil;-39,8577999722798;-18,714904680041;203
+Rua Doutor Arlindo Sodré, 162, Centro, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP VITÓRIA;Polícia Civil;-39,8577999722798;-18,714904680041;204
+Rua Eurico Salles, 1221, Boa Vista, São Mateus;0;0;0;;0;0;3204906;;Sao Mateus;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-39,867899619108;-18,7170993846463;205
+Rua João Dias, 89, Centro, São Gabriel da Palha;0;0;0;;0;0;3204708;;Sao Gabriel da Palha;3ª COMPANHIA DO 2º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,5355000808793;-19,0186965821604;206
+Rua Argeu Rezende, 110, Independência, São Gabriel da Palha;0;0;0;;0;0;3204708;;Sao Gabriel da Palha;DELEGACIA DE POLÍCIA DE SAO GABRIEL DA PALHA;Polícia Civil;-40,5358997050439;-19,0199039638809;207
+Rua Luis Endringer, 03, São Sebastião, Rio Bananal;0;0;0;;0;0;3204351;;Rio Bananal;DPM DE RIO BANANAL;Polícia Militar;-40,319999818532;-19,2750943394042;208
+Avenida 14 de setembro, 1056, Centro, Rio Bananal;0;0;0;;0;0;3204351;;Rio Bananal;DELEGACIA DE POLÍCIA DE RIO BANANAL;Polícia Civil;-40,3297004418846;-19,2690967232757;209
+Rua Negro Orestes, Centro, João Neiva;0;0;0;;0;0;3203130;;Joao Neiva;DPM DE JOÃO NEIVA 5 BPM;Polícia Militar;-40,3812003066123;-19,7563044456769;210
+Rua Orestes Negri, Centro, João Neiva;0;0;0;;0;0;3203130;;Joao Neiva;DELEGACIA DE JOAO NEIVA;Polícia Civil;-40,3837002078406;-19,7555984870433;211
+Praça dos Três Poderes, Cristo Rei, Águia Branca;0;0;0;;0;0;3200136;;Águia Branca;3ª COMPANHIA DO 11º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,7403002000394;-18,9815029345431;212
+Rua Dr. Valery Koszarowski, 10, Praça dos Três Poderes, Águia Branca;0;0;0;;0;0;3200136;;Águia Branca;DELEGACIA DE ÁGUIA BRANCA;Polícia Civil;-40,7371001265366;-18,9829062223399;213
+Rodovia Serafim Derenzi, Joana D' Arc, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE JOANA D ARC;Polícia Militar;-40,3138999652816;-20,2863066136366;214
+Rua São Salvador, 70, Centro, São Domingos do Norte;0;0;0;;0;0;3204658;;Sao Domingos do Norte;DPM DE SÃO DOMINGOS DO NORTE;Polícia Militar;-40,6224001559267;-19,1453981716132;215
+Rua Valeriano Pagani, Centro, São Domingos do Norte;0;0;0;;0;0;3204658;;Sao Domingos do Norte;DELEGACIA DE POLÍCIA DE SÃO DOMINGO DO NORTE;Polícia Civil;-40,6224997160078;-19,1442047147681;216
+Avenida Jones dos Santos Neves, Centro, Linhares;0;0;0;;0;0;3203205;;Linhares;2º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,068100588202;-19,3993061651812;217
+Avenida do Sol, Pontal do Ipiranga, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE PONTAL DO IPIRANGA;Polícia Militar;-39,7102004356264;-19,1903988886274;218
+Praça Regis Bitencourt, Centro, Linhares;0;0;0;;0;0;3203205;;Linhares;1ª COMPANHIA DO 12º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,0648002863388;-19,4074037695198;219
+Rua Washington Luiz, 599, José Rodrigues Maciel, Linhares;0;0;0;;0;0;3203205;;Linhares;12º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,0627000237093;-19,3760970106317;220
+Avenida dos Moveleiros, Canivete, Linhares;0;0;0;;0;0;3203205;;Linhares;3ª COMPANHIA DO 12º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,0700995929866;-19,3235990632752;221
+Avenida Presidente Emílio Garrastazu Médici, BNH, Linhares;0;0;0;;0;0;3203205;;Linhares;2ª COMPANHIA DO 12º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,0584002560924;-19,3857003390318;222
+Rua Maria Giuriatto Frisso, Linhares V, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE LINHARES V;Polícia Militar;-40,0513994437107;-19,3594006409824;223
+Praça de Araça, Rua Augusto de Carvalho, Araça, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE ARAÇÁ;Polícia Militar;-40,0548994767338;-19,3973049553545;224
+Praça de Interlagos I, Avenida Vasco Fernandes Coutinho, Interlagos I, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE INTERLAGOS I;Polícia Militar;-40,049400323236;-19,3916982519773;225
+Praça de Interlagos II, Avenida Martin Afonso de Souza, Interlagos II, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE INTERLAGOS II;Polícia Militar;-40,040600345612;-19,3951012298403;226
+Rua Benevenutto Zozanelli,, Bebedouro, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE BEBEDOURO;Polícia Militar;-40,1141000677829;-19,4720041192059;227
+Avenida Guerino Giubert, Praça de Nossa Senhora de Conceição, Nossa Senhora da Conceição, Linhares;0;0;0;;0;0;3203205;;Linhares;POSTO DE TRÂNSITO;Polícia Militar;-40,0704996948906;-19,3860994023933;228
+Rua Ricardo Ferreira Leite, Povoação, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE POVOAÇÃO;Polícia Militar;-39,7946995800661;-19,5778048575611;229
+Rua Projetada, São Rafael, Linhares;0;0;0;;0;0;3203205;;Linhares;DPM DE SÃO RAFAEL;Polícia Militar;-40,4461999756284;-19,3703992167616;230
+Avenida Augusto Calmon, 920, Centro, Linhares;0;0;0;;0;0;3203205;;Linhares;COMANDO DE POLÍCIA OSTENSIVA NORTE - CPON;Polícia Militar;-40,0635004549467;-19,4019987782904;231
+Rua Elio José de Almeida, 17, Quadra C3, Três Barras, Linhares;0;0;0;;0;0;3203205;;Linhares;16ª DELEGACIA REGIONAL - LINHARES;Polícia Civil;-40,0687000606088;-19,3734052603566;232
+Rua Elio José de Almeida, 17, Quadra C3, Três Barras, Linhares;0;0;0;;0;0;3203205;;Linhares;SUPERINTENDÊNCIA DE POLÍCIA REGIONAL NORTE - SPRN;Polícia Civil;-40,068900001067;-19,3734040860436;233
+Rua Elio José de Almeida, 17, Quadra C3, Três Barras, Linhares;0;0;0;;0;0;3203205;;Linhares;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP LINHARES;Polícia Civil;-40,0688000308397;-19,3734046732276;234
+Rua José Candido Durão, Três Barras, Linhares;0;0;0;;0;0;3203205;;Linhares;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,0690002161855;-19,3732950643654;235
+Rua Tenente Mário Francisco de Brito, 100, Enseada do Suá, Vitória;0;0;0;;0;0;3205309;;Vitória;1º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,2912998554775;-20,3127022490178;236
+Avenida Maruípe, 2111, São Cristóvão,  Vitória;0;0;0;;0;0;3205309;;Vitória;QUARTEL DO COMANDO GERAL DA POLICIA MILITAR - QCG;Polícia Militar;-40,3112001738762;-20,2933015470525;237
+Rodovia Serafim Derenzi, Santa Martha, Vitória;0;0;0;;0;0;3205309;;Vitória;COMPANHIA ESPECIALIZADA DE OPERAÇÕES COM CÃES;Polícia Militar;-40,3099001663078;-20,2930041032725;238
+Rua Fortunato Ramos,117, Santa Lúcia, Vitória;0;0;0;;0;0;3205309;;Vitória;3ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,298499961586;-20,3056019636058;239
+Avenida Dário Lourenço de Souza, 1291, Mario Cypreste, Vitória;0;0;0;;0;0;3205309;;Vitória;2ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3587000499085;-20,3123995122172;240
+Rua Querubino Costa, Ilha do Príncipe, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM  DA ILHA DO PRÍNCIPE;Polícia Militar;-40,3492997452352;-20,3226992700982;241
+Avenida Professor Hermínio Blackman,1086, Bairro da Penha, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DO BAIRRO DA PENHA;Polícia Militar;-40,3079002636482;-20,2999034092606;242
+Rua Hermes Curry Carneiro, Ilha de Santa Maria, Vitória;0;0;0;;0;0;3205309;;Vitória;1ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3164996235107;-20,3134991760999;243
+Avenida Professor Fernando Duarte Rabelo, 577, Maria Ortiz, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE MARIA ORTIZ;Polícia Militar;-40,2975002052487;-20,2604994909991;244
+Rua Belmiro Teixeira Pimenta, 350A, Jardim Camburi, Vitória;0;0;0;;0;0;3205309;;Vitória;2ª COMPANHIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO - POSTO 04;Polícia Militar;-40,2667004111292;-20,2553039146888;245
+Rua Bernadino Monteiro, 77, Parque Moscoso, Vitória;0;0;0;;0;0;3205309;;Vitória;BATALHAO DE POLICIA DE TRÂNSITO - BPTRAN;Polícia Militar;-40,340199671005;-20,317294366586;246
+Rua Tenente Mario Francisco Brito, Enseada do Sua;0;0;0;;0;0;3205309;;Vitória;POSTO DE TRÂNSITO 03;Polícia Militar;-40,2934995862116;-20,3119993666537;247
+Rodovia Serafim Derenzi, 11240, São Cristóvão, Vitória;0;0;0;;0;0;3205309;;Vitória;1º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3099997471565;-20,2930033581485;248
+Rua Jaír Andrade, 43, Vila Rubim, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DA VILA RUBIM;Polícia Militar;-40,3466002704875;-20,3201994683033;249
+Praça Regina Frigeri Furno, Jardim da Penha, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE JARDIM DA PENHA;Polícia Militar;-40,2939004501218;-20,2822002175939;250
+Rodovia Serafim Derenzi, 4222, Santos Reis, Vitória;0;0;0;;0;0;3205309;;Vitória;5ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3330001371018;-20,2830001766712;251
+Rua São José Operário, Praça Daniel Acioly, Maruípe, Vitória;0;0;0;;0;0;3205309;;Vitória;6ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,3183997748561;-20,2962017754115;252
+Avenida Presidente Costa e Silva, Bairro República, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE BAIRRO REPUBLICA;Polícia Militar;-40,2945996770731;-20,2706939530211;253
+Rua José Malta, 331, Fradinhos, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE FRADINHOS;Polícia Militar;-40,3281998347142;-20,3061018026179;254
+Rua Ormando de Aguiar, Romão, Vitória;0;0;0;;0;0;3205309;;Vitória;SERVIÇO DE ATENDIMENTO AO CIDADÃO - ROMÃO;Polícia Militar;-40,325000356004;-20,3124050551004;255
+Rua Theófilo Costa, 110, Jardim Camburi, Vitória;0;0;0;;0;0;3205309;;Vitória;12ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,2716002429257;-20,250498112768;256
+Rua Sete de setembro, 362, Palácio da Fonte Grande, Centro, Vitória;0;0;0;;0;0;3205309;;Vitória;COMPANHIA ESPECIALIZADA DE POLÍCIA DE GUARDA;Polícia Militar;-40,3372005826899;-20,3169017367233;257
+Rua Tenente Setubal, 450, São Benedito, Vitória;0;0;0;;0;0;3205309;;Vitória;DPM DE SÃO BENEDITO;Polícia Militar;-40,3076005842852;-20,3031038900155;258
+Rua Onze de Janeiro, 90, Grande Vitória, Vitória;0;0;0;;0;0;3205309;;Vitória;SERVIÇO DE ATENDIMENTO AO CIDADÃO - GRANDE VITÓRIA;Polícia Militar;-40,3441996067302;-20,2903951371127;259
+Morro da Fonte Grande, Vitória;0;0;0;;0;0;3205309;;Vitória;SERVIÇO DE ATENDIMENTO AO CIDADÃO - TORRE DA FONTE GRANDE;Polícia Militar;-40,3417999632121;-20,3084012080851;260
+Avenida Vitória, 2382, Ilha Monte Belo, Vitória;0;0;0;;0;0;3205309;;Vitória;ACADEMIA DE POLÍCIA CIVIL - ACADEPOL;Polícia Civil;-40,3128003854901;-20,3106991625698;261
+Avenida Alberto Oliveira Santos, 42, Centro, Vitória;0;0;0;;0;0;3205309;;Vitória;CORREGEDORIA GERAL;Polícia Civil;-40,3322001118719;-20,3208970064615;262
+Rua Leopoldo Gomes Salles, 76, Goiabeiras, Vitória;0;0;0;;0;0;3205309;;Vitória;4º DISTRITO POLICIAL;Polícia Civil;-40,3008002958491;-20,2690037293466;263
+Rua Celso Calmon, 173, Praia do Canto, Vitória;0;0;0;;0;0;3205309;;Vitória;3° DISTRITO POLICIAL;Polícia Civil;-40,2936003012271;-20,2976064792213;264
+Rua Belmiro Teixeira Pimenta, Jardim Camburi, Vitória;0;0;0;;0;0;3205309;;Vitória;5º DISTRITO POLICIAL;Polícia Civil;-40,2667999696161;-20,2553031954128;265
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;DEL. ESP. DE CRIMES CONTRA  A  ADMINISTRACAO PUBLICA - DECOR;Polícia Civil;-40,3378995931368;-20,3208986651839;266
+Avenida Santo Antônio, 1370, Santo Antônio, Vitória;0;0;0;;0;0;3205309;;Vitória;1º DISTRITO POLICIAL;Polícia Civil;-40,3573996761551;-20,3132949819;267
+Avenida Princesa Isabel, 599, Centro, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA ESPECIALIZADA DE DEFESA DO CONSUMIDOR - DECON;Polícia Civil;-40,3291005730434;-20,3194027959895;268
+Avenida Nossa Senhora da Penha, 2270, Santa Luzia, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA ESP. DE PROTEÇÃO À CRIANÇA E ADOLESCENTE - DPCA;Polícia Civil;-40,3021996424247;-20,2912004231686;269
+Rua Maria de Lourdes Garcia, 50, Ilha de Santa Maria, Vitória;0;0;0;;0;0;3205309;;Vitória;DIVISÃO ESP. DE CRIMES DE FURTOS E ROUBOS DE VEÍCULOS - DFRV;Polícia Civil;-40,3167995947548;-20,3115996638558;270
+Rua Doutor João Carlos de Souza, 89, Barro Vermelho, Vitória;0;0;0;;0;0;3205309;;Vitória;DEL. ESP. DE HOMICÍDIO E PROTEÇÃO À MULHER - DHPM;Polícia Civil;-40,2980995708339;-20,2926041321868;271
+Rua Construtor Camilo Gianordoli, 553, Horto, Vitória;0;0;0;;0;0;3205309;;Vitória;1ª DELEGACIA REGIONAL - VITÓRIA;Polícia Civil;-40,3093997421658;-20,3089990465465;272
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE POL. INTERESTADUAL E CAPTURAS - SPIC;Polícia Civil;-40,3019001996938;-20,2910038887595;273
+Avenida Marechal Campos, 1236, Bonfim, Vitória;0;0;0;;0;0;3205309;;Vitória;DIVISÃO DE REPRESSÃO AOS CRIMES CONTRA O PATRIMÔNIO - DRCCP;Polícia Civil;-40,315199895146;-20,3008967160202;274
+Avenida Fernando Ferrari, Mata da Praia, Vitória;0;0;0;;0;0;3205309;;Vitória;DIVISÃO ESPECIALIZADA DE DELITOS DE TRÂNSITO  - DIV-DDT;Polícia Civil;-40,300899828069;-20,2774955394387;275
+Rua Belmiro Teixiera Pimenta, Jardim Camburi, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA ESPECIALIZADA DE COSTUMES E DIVERSÕES;Polícia Civil;-40,2667004111292;-20,2553039146888;276
+Rua José Faria, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;DEPARTAMENTO MÉDICO LEGAL -VITÓRIA;Polícia Civil;-40,3017994727222;-20,2918990637595;277
+Avenida Nossa Senhora da Penha, 2270, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,302000227743;-20,2914006675856;278
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE ADMINISTRAÇÃO E FINANÇAS - SAF;Polícia Civil;-40,3020001004175;-20,2915000491957;279
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE APOIO LOGÍSTICO E ENGENHARIA - SALE;Polícia Civil;-40,3021002563601;-20,2917974463092;280
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE POLÍCIA ESPECIALIZADA - SPE;Polícia Civil;-40,3019002654438;-20,2916995529415;281
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE POLÍCIA REGIONAL METROPOLITANA - SPRM;Polícia Civil;-40,3021000624171;-20,2912011637937;282
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE POLÍCIA TÉCNICO CIENTÍFICA - SPTC;Polícia Civil;-40,3022003455178;-20,2913991792567;283
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DE INTELIGÊNCIA E AÇÕES ESTRATÉGICAS - SIAE;Polícia Civil;-40,3020995533617;-20,2915986902226;284
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;SUPERINTENDÊNCIA DA TEC. DA INFORMAÇÃO E COMUNICAÇÃO - SUTIC;Polícia Civil;-40,3021002045919;-20,2919058619552;285
+Rua Doutor João Carlos de Souza, 89, Barro Vermelho, Vitória;0;0;0;;0;0;3205309;;Vitória;DEL. ESP. DE HOMICÍDIOS - PESSOAS DESAPARECIDAS;Polícia Civil;-40,2983005183353;-20,2927020228538;286
+Rua Doutor João Carlos de Souza, 89, Barro Vermelho, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP VITÓRIA;Polícia Civil;-40,2981999044477;-20,2926937343572;287
+Rua Engenheiro Manoel dos Passos, 48, Mario Cypreste, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA ESPECIALIZADA DE ADOLESCENTE EM CONFLITO COM A LEI;Polícia Civil;-40,3529995367197;-20,3194002152726;288
+Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória;0;0;0;;0;0;3205309;;Vitória;DELEGACIA ESPECIALIZADA DE PROTEÇÃO AO IDOSO - DEPI;Polícia Civil;-40,3019996666252;-20,2919066096692;289
+Rua Construtor Camilo Gianordoli, 553, Horto, Vitória;0;0;0;;0;0;3205309;;Vitória;2º DISTRITO POLICIAL;Polícia Civil;-40,309500290865;-20,3089982939785;290
+Rodovia ES-060, Aeroporto, Guarapari;0;0;0;;0;0;3202405;;Guarapari;5º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,4907006181132;-20,6485045586634;291
+Rodovia ES-060, Km 56, Aeroporto, Guarapari;0;0;0;;0;0;3202405;;Guarapari;10º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,489499661558;-20,6463016692653;292
+Avenida Joaquim da Silva Lima, Centro, Guarapari;0;0;0;;0;0;3202405;;Guarapari;2ª COMPANHIA DO 10º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,5013997988659;-20,674997867509;293
+Rodovia ES-060, Village do Sol, Guarapari;0;0;0;;0;0;3202405;;Guarapari;DPM DE VILLAGE DO SOL;Polícia Militar;-40,3980997946179;-20,5488030884837;294
+Rodovia ES-060, Perocão, Guarapari;0;0;0;;0;0;3202405;;Guarapari;3ª COMPANHIA DO 10º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,4681000494072;-20,6237018126985;295
+Avenida Beira Mar, Praia do Morro, Guarapari;0;0;0;;0;0;3202405;;Guarapari;1ª COMPANHIA DO 10º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,4840002485883;-20,6527991229016;296
+Rua Josias Ceruti, 683, Praia do Morro, Guarapari;0;0;0;;0;0;3202405;;Guarapari;5ª DELEGACIA REGIONAL - GUARAPARI;Polícia Civil;-40,4862999964965;-20,6463021523836;297
+Rua Josias Ceruti, 683, Praia do Morro, Guarapari;0;0;0;;0;0;3202405;;Guarapari;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP GUARAPARI;Polícia Civil;-40,4863998041047;-20,646400663772;298
+Rua Santo Antônio, Muquiçaba, Guarapari;0;0;0;;0;0;3202405;;Guarapari;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,499700031692;-20,6626997870772;299
+Rua Josias Ceruti, 683, Praia do Morro, Guarapari;0;0;0;;0;0;3202405;;Guarapari;DEL. ESP. DE PROTEÇÃO À CRIANÇA, ADOLESCENTE E IDOSO;Polícia Civil;-40,4863998041047;-20,646400663772;300
+Rodovia ES-060, Praia de Guanabara, Anchieta;0;0;0;;0;0;3200409;;Anchieta;2ª COMPANHIA DO 5º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,6181001808238;-20,8205959820187;301
+Rua Vitória, Vila Residencial Anchieta, Anchieta;0;0;0;;0;0;3200409;;Anchieta;1º PELOTÃO DA 10ª COMPANHIA INDEPENDENTE DA POLÍCIA MILITAR;Polícia Militar;-40,6378994997652;-20,8101011968924;302
+Rua João Maleiro, Jabaquara, Anchieta;0;0;0;;0;0;3200409;;Anchieta;DPM DE JABAQUARA;Polícia Militar;-40,6766998540081;-20,6852966423756;303
+Rua Vitória, 36, Vila Samarco, Anchieta;0;0;0;;0;0;3200409;;Anchieta;10ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,5742997829001;-20,7672015581298;304
+Avenida Dom Helvécio, Iriri, Anchieta;0;0;0;;0;0;3200409;;Anchieta;DPM DE IRIRI;Polícia Militar;-40,6959001021028;-20,8322008087445;305
+Rua Coronel Vitorino, Centro, Anchieta;0;0;0;;0;0;3200409;;Anchieta;10ª DELEGACIA REGIONAL - ANCHIETA;Polícia Civil;-40,6509634997331;-20,8050348444881;306
+Rua Francisco  Fortunato, Entre Morros, Muqui;0;0;0;;0;0;3203809;;Muqui;DPM DE MUQUI;Polícia Militar;-41,3509002984447;-20,954895030124;307
+Avenida Jerônimo Monteiro, 56, Centro, Muqui;0;0;0;;0;0;3203809;;Muqui;DELEGACIA DE MUQUI;Polícia Civil;-41,3445998928542;-20,9498979006691;308
+Rua José Vicente Tavares, Centro, Divino São Lourenço;0;0;0;;0;0;3201803;;Divino de Sao Lourenço;DPM DE DIVINO DE SAO LOURENCO;Polícia Militar;-41,684699886934;-20,6212944250371;309
+Rua São Genuíno Lopes, Centro, Divino de São Lourenço;0;0;0;;0;0;3201803;;Divino de Sao Lourenço;DELEGACIA DE DIVINO DE SAO LOURENCO;Polícia Civil;-41,6846005123713;-20,6212056846681;310
+Rua 1B, Quadra 03, CIVIT II, Serra;0;0;0;;0;0;3205002;;Serra;2ª COMPANHIA DO 6º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-40,2469000582113;-20,1920936847571;311
+Avenida Boa Vista, Boa Vista II, Serra;0;0;0;;0;0;3205002;;Serra;REGIMENTO DE POLICIA MONTADA - RPMONT;Polícia Militar;-40,2794002557746;-20,2334019085344;312
+Rua Peroba do Campo, José de Anchieta, Serra;0;0;0;;0;0;3205002;;Serra;1ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2732997590818;-20,1955002899194;313
+Avenida Todos os Santos, Bairro das Laranjeiras, Serra;0;0;0;;0;0;3205002;;Serra;2º PELOTÃO DA 14ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,191100032821;-20,1258021240833;314
+Rodovia ES-010, Ourimar, Serra;0;0;0;;0;0;3205002;;Serra;POSTO DE TRÂNSITO 10;Polícia Militar;-40,1990005273801;-20,1887045033968;315
+Rua Doutor Milton David, Reis Magos, Serra;0;0;0;;0;0;3205002;;Serra;3º PELOTÃO DA 14ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,1954995351525;-20,0560034335489;316
+Avenida Região Nordeste, Barcelona, Serra;0;0;0;;0;0;3205002;;Serra;3ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2536997021092;-20,1735961755527;317
+Rua , 191, Jardim da Serra, Serra;0;0;0;;0;0;3205002;;Serra;4ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,316999754806;-20,1178051470092;318
+Avenida dos Índios, Setor América, Cidade Continental, Serra;0;0;0;;0;0;3205002;;Serra;5ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2297997487399;-20,2207011280862;319
+Rodovia BR-101, Rodovia do Contorno, km 01, Jardim Carapina, Serra;0;0;0;;0;0;3205002;;Serra;6º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2801000997816;-20,2318970410792;320
+Rua Vitória Régia, Feu Rosa, Serra;0;0;0;;0;0;3205002;;Serra;14ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,2092996384299;-20,1750995987263;321
+Rua Dourados, Barcelona, Serra;0;0;0;;0;0;3205002;;Serra;BATALHÃO DE POLÍCIA AMBIENTAL - BPMA;Polícia Militar;-40,2397998495462;-20,1704963309197;322
+Rua Coelho Neto, Parque Residencial Laranjeiras, Serra;0;0;0;;0;0;3205002;;Serra;2ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,2551999248098;-20,1976000703802;323
+Rua Rio Amazonas, 21, Helio Ferraz, Serra;0;0;0;;0;0;3205002;;Serra;COMANDO DE POLÍCIA OSTENSIVA ESPECIALIZADO - CPOE;Polícia Militar;-40,2724002786002;-20,2412949542744;324
+Avenida Abdo Saade, 24, Parque Jacaraípe, Serra;0;0;0;;0;0;3205002;;Serra;12º DISTRITO POLICIAL;Polícia Civil;-40,1861998624212;-20,1550003326894;325
+Avenida Brasil, 1322, Novo Horizonte, Serra;0;0;0;;0;0;3205002;;Serra;DEPARTAMENTO ESPECIALIZADO DE NARCÓTICOS - DENARC;Polícia Civil;-40,2429000775852;-20,2155042030245;326
+Avenida Eldes Scherrer de Souza, Parque Residencial Laranjeiras, Serra;0;0;0;;0;0;3205002;;Serra;3ª DELEGACIA REGIONAL - SERRA;Polícia Civil;-40,2548002947382;-20,194901511076;327
+Rua Odisseia Neves Gabrielli, 322, Rosário de Fátima, Serra;0;0;0;;0;0;3205002;;Serra;DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP SERRA;Polícia Civil;-40,2706996294504;-20,2303933085501;328
+Rua Sebastião Rodrigues Miranda, 49, Boa Vista II, Serra;0;0;0;;0;0;3205002;;Serra;DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM;Polícia Civil;-40,2809995575943;-20,2376998020947;329
+Rua Sebastião Rodrigues Miranda, 49, Boa Vista II, Serra;0;0;0;;0;0;3205002;;Serra;DELEGACIA ESPECIALIZADA DE ACIDENTES DE TRABALHO - DEAT;Polícia Civil;-40,28110006149;-20,2376990683164;330
+Avenida Eldes Scherrer de Souza, Parque Residencial Laranjeiras, Serra;0;0;0;;0;0;3205002;;Serra;10º DISTRITO POLICIAL;Polícia Civil;-40,2547995874242;-20,194693715095;331
+Avenida Abdo Saade, 24, Parque Jacaraípe, Serra;0;0;0;;0;0;3205002;;Serra;11º DISTRITO POLICIAL;Polícia Civil;-40,1861998624212;-20,1550003326894;332
+Avenida Eldes Scherrer de Souza, Parque Residencial Laranjeiras, Serra;0;0;0;;0;0;3205002;;Serra;13º DISTRITO POLICIAL;Polícia Civil;-40,2548004557218;-20,1948021268259;333
+Rua Martinho Máximo Scardua, Centro, Itarana;0;0;0;;0;0;3202900;;Itarana;2º PELOTÃO DA 2ª CIA DO BATALHÃO DE POLÍCIA  AMBIENTAL;Polícia Militar;-40,8709005384716;-19,8708044935054;334
+Praça Ana Matos, Centro, Itarana;0;0;0;;0;0;3202900;;Itarana;DPM DE ITARANA;Polícia Militar;-40,8759003221054;-19,8748980836423;335
+Rua Dom Luiz Scartegande, 325, Centro, Itarana;0;0;0;;0;0;3202900;;Itarana;DELEGACIA DE ITARANA;Polícia Civil;-40,8753998756126;-19,8713985233445;336
+Rua 14 de Julho, Santo Antonio do Canaã, Santa Teresa;0;0;0;;0;0;3204609;;Santa Teresa;DPM DE SANTO ANTONIO DO CANAÃ;Polícia Militar;-40,6523005747531;-19,8234064039662;337
+Avenida Ricardo Pasoline, 82, Centro, Santa Teresa;0;0;0;;0;0;3204609;;Santa Teresa;8ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-40,5998004079009;-19,9309024983627;338
+Rua Coronel Bonfim Junior, 55, Centro, Santa Teresa;0;0;0;;0;0;3204609;;Santa Teresa;12ª DELEGACIA REGIONAL - SANTA TERESA;Polícia Civil;-40,609799579649;-19,9398010153915;339
+Rua Costa Pereira, Centro, Santa Leopoldina;0;0;0;;0;0;3204500;;Santa Leopoldina;POSTO AVANCADO DA 1ª CIA  DO 6º BBM;Bombeiro Militar;-40,5285999328592;-20,1007939415696;340
+Avenida Presidente Vargas,1437, Centro, Santa Leopoldina;0;0;0;;0;0;3204500;;Santa Leopoldina;DPM DE SANTA LEOPOLDINA;Polícia Militar;-40,52680017263;-20,1005023648729;341
+Rodovia ES-080, Barra do Mangaraí, Santa Leopoldina;0;0;0;;0;0;3204500;;Santa Leopoldina;DPM DE BARRA DO MANGARAI;Polícia Militar;-40,4391004683582;-20,1341968761265;342
+Rua Porfírio Furtado, 47, Centro, Santa Leopoldina;0;0;0;;0;0;3204500;;Santa Leopoldina;DELEGACIA DE POLÍCIA DE SANTA LEOPOLDINA;Polícia Civil;-40,5282003681753;-20,1015020636711;343
+Rua Nestor Gomes, 200, Rodoviária, Centro, Vargem Alta;0;0;0;;0;0;3205036;;Vargem Alta;2º PELOTÃO DA 3ª COMPANHIA DO 9º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,012999675451;-20,6755003247123;344
+Rodovia Gumercindo Moura Nunes, Castelinho, Vargem Alta;0;0;0;;0;0;3205036;;Vargem Alta;DPM DE CASTELINHO;Polícia Militar;-40,9843995769243;-20,5175015848584;345
+Avenida Beira Rio, Centro, Vargem Alta;0;0;0;;0;0;3205036;;Vargem Alta;3º PELOTÃO DA 3ª COMPANHIA DO 9º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,0056997636888;-20,66939863746;346
+Praça Padre Olivio, Jaciguá, Vargem Alta;0;0;0;;0;0;3205036;;Vargem Alta;DPM DE JACIGUÁ;Polícia Militar;-41,0162994117895;-20,7029002112505;347
+Rua Frederico Fontana, 48, Centro, Vargem Alta;0;0;0;;0;0;3205036;;Vargem Alta;DELEGACIA DE VARGEM ALTA;Polícia Civil;-41,0125996348136;-20,6734005918963;348
+Avenida Castelo Branco, Vila Landinha, Barra de São Francisco;0;0;0;;0;0;3200904;;Barra de Sao Francisco;POSTO AVANCADO DA 2ª CIA DO 2º BBM;Bombeiro Militar;-40,8849002460204;-18,7574008676689;349
+Rua Duque de Caxias, s.n., Bairro Colina, B.S.Francisco;0;0;0;;0;0;3200904;;Barra de Sao Francisco;SERVIÇO DE ATENDIMENTO AO CIDADÃO - COLINA;Polícia Militar;-40,8926004393337;-18,7623008074541;350
+Rua Vereador Antônio Roas Huebra, 293, Centro, Barra de São Francisco;0;0;0;;0;0;3200904;;Barra de Sao Francisco;11º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,8898996369124;-18,7583983452798;351
+Rua Principal, Vila Itaperuna, Barra de São Francisco;0;0;0;;0;0;3200904;;Barra de Sao Francisco;DPM DE VILA ITAPERUNA;Polícia Militar;-40,7338001730195;-18,7098953303152;352
+Rua Principal, Distrito de Vila Paulista, Barra de São Francisco;0;0;0;;0;0;3200904;;Barra de Sao Francisco;DPM DE VILA PAULISTA;Polícia Militar;-40,7959004587415;-18,6658999982508;353
+Rua Henrique Fanti, Nova Barra, Barra de São Francisco;0;0;0;;0;0;3200904;;Barra de Sao Francisco;14ª DELEGACIA REGIONAL - BARRA DE SAO FRANCISCO;Polícia Civil;-40,8990001308657;-18,7690023332322;354
+Rua Floriano Rubim, Centro, Mantenópolis;0;0;0;;0;0;3203304;;Mantenópolis;DPM DE MANTENÓPOLIS;Polícia Militar;-41,1209998977047;-18,8611983708186;355
+Rua Maria Teodoro,511, Centro, Mantenópolis;0;0;0;;0;0;3203304;;Mantenópolis;DELEGACIA DE MANTENOPOLIS;Polícia Civil;-41,1222000991332;-18,8627022112735;356
+Rua Ottor Maier, 104, Centro, Laranja da Terra;0;0;0;;0;0;3203163;;Laranja da Terra;DPM DE LARANJA DA TERRA;Polícia Militar;-41,0573998355714;-19,8979041181241;357
+Estrada São Luiz de Miranda, Terminal Rodoviário, Laranja da Terra;0;0;0;;0;0;3203163;;Laranja da Terra;NÚCLEO POLICIAL DE LARANJA DA TERRA;Polícia Civil;-41,0585002284281;-19,9028049483323;358
+Rua Anália Vieira de Souza, 270, São Vicente, Afonso Cláudio;0;0;0;;0;0;3200102;;Afonso Cláudio;DESTACAMENTO DE POLÍCIA AMBIENTAL DE AFONSO CLÁUDIO;Polícia Militar;-41,1244002145839;-20,0833003623364;359
+Rua José Jorge Haddad, 88, Centro, Afonso Cláudio;0;0;0;;0;0;3200102;;Afonso Cláudio;2ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-41,1256005906503;-20,0725019138168;360
+Rua Maria Pádua Soares, Centro, Afonso Cláudio;0;0;0;;0;0;3200102;;Afonso Cláudio;DELEGACIA DE AFONSO CLAUDIO;Polícia Civil;-41,12599946392;-20,0733009451682;361
+Rua 3 de Maio, Centro, Brejetuba;0;0;0;;0;0;3201159;;Brejetuba;DPM DE BREJETUBA;Polícia Militar;-41,2899005148558;-20,1471033764631;362
+Rua José Olindo Badaró, 76, Centro, Brejetuba;0;0;0;;0;0;3201159;;Brejetuba;DELEGACIA DE BREJETUBA;Polícia Civil;-41,2915997140264;-20,1489958359777;363
+Rodovia BR-262, km 158, Novo Horizonte, Ibatiba;0;0;0;;0;0;3202454;;Ibatiba;14º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,5132999974053;-20,2378938282635;364
+Avenida Servolo Rodrigues Trindade, 549, Boa Esperança, Ibatiba;0;0;0;;0;0;3202454;;Ibatiba;8ª DELEGACIA REGIONAL - IBATIBA;Polícia Civil;-41,5046998709451;-20,232093292419;365
+Avenida Getúlio Vargas, Vila Verde, Iúna;0;0;0;;0;0;3203007;;Iúna;DPM DE IÚNA;Polícia Militar;-41,5364999647925;-20,3452019255246;366
+Travessa Manoel J. de Ribeiro, Pequiá, Iúna;0;0;0;;0;0;3203007;;Iúna;DPM DE PEQUIA;Polícia Militar;-41,7779997293813;-20,2751058830774;367
+Rua Espírito Santo, 161, Quilombo, Iúna;0;0;0;;0;0;3203007;;Iúna;DELEGACIA DE POLÍCIA DE IÚNA;Polícia Civil;-41,5326998789195;-20,3514062398904;368
+Avenida Otávio Shwartz, Centro, Ibitirama;0;0;0;;0;0;3202553;;Ibitirama;DPM DE IBITIRAMA;Polícia Militar;-41,660000061957;-20,5396057090412;369
+Rua José de Melo, Santa Marta, Ibitirama;0;0;0;;0;0;3202553;;Ibitirama;DPM DE SANTA MARTA;Polícia Militar;-41,7166999001879;-20,5110988103025;370
+Avenida Acidalia Vieira Knust,08, Centro, Ibitirama;0;0;0;;0;0;3202553;;Ibitirama;DELEGACIA DE IBITIRAMA;Polícia Civil;-41,6656998912912;-20,5408001739466;371
+Rodovia ES-495, Pedra Menina, Dores do Rio Preto;0;0;0;;0;0;3202009;;Dores do Rio Preto;DPM DE PEDRA MENINA;Polícia Militar;-41,8181003698544;-20,5542047368877;372
+Rua Pedro de Alcantara Galveia, Centro, Dores do Rio Preto;0;0;0;;0;0;3202009;;Dores do Rio Preto;DPM DE DORES DO RIO PRETO;Polícia Militar;-41,8499998724994;-20,6905949147671;373
+Rua Pedro Alcantara Gouveia, Centro, Dores do Rio Preto;0;0;0;;0;0;3202009;;Dores do Rio Preto;DELEGACIA DE DORES DO RIO PRETO;Polícia Civil;-41,8497000726294;-20,693597017982;374
+Rodovia Norival Couzi, Monteiro Torres, Guaçuí;0;0;0;;0;0;3202306;;Guaçuí;2ª COMPANHIA DO 3º BATALHÃO DE BOMBEIROS MILITARES;Bombeiro Militar;-41,6783001499183;-20,7782009978335;375
+Rua Maranhão, Centro, Guaçuí;0;0;0;;0;0;3202306;;Guaçuí;2ª COMPANHIA DO 3º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,6744002359508;-20,7680957597208;376
+Rua Joaquim Martinho de Carvalho, 269, Centro, Guaçuí;0;0;0;;0;0;3202306;;Guaçuí;2º PELOTÃO DA 4ª CIA DO BATALHÃO DE POLÍCIA AMBIENTAL;Polícia Militar;-41,6740003960797;-20,7679033615302;377
+Avenida José Alexandre, 15, Centro, Guaçuí;0;0;0;;0;0;3202306;;Guaçuí;DELEGACIA DE GUACUI;Polícia Civil;-41,6681996748035;-20,7755053338973;378
+Rua Maestro Elipio de Sá Viana, Divineia, São José do Calçadp;0;0;0;;0;0;3204807;;Sao José do Calçado;DPM DE SAO JOSE DO CALCADO;Polícia Militar;-41,6571998250667;-21,0304952689986;379
+Rua Doutor José Fernando Medina, 399, Centro, São José do Calçado;0;0;0;;0;0;3204807;;Sao José do Calçado;DELEGACIA DE SÂO JOSÉ DO CALCADO;Polícia Civil;-41,6530000085164;-21,0227061980972;380
+Rua Lourival Calvichine, Belvedere, Bom Jesus do Norte;0;0;0;;0;0;3201100;;Bom Jesus do Norte;3ª COMPANHIA DO 3º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,6677998028348;-21,1236001239434;381
+Rua Pedro Casemiro de Campos, 85, São Sebastião,;0;0;0;;0;0;3201100;;Bom Jesus do Norte;DELEGACIA DE BOM JESUS DO NORTE;Polícia Civil;-41,6725997629276;-21,1246980935659;382
+Rua Jader Filho, 41, Francisco Jorge da Silva, Apiacá;0;0;0;;0;0;3200508;;Apiacá;DPM DE APIACÁ;Polícia Militar;-41,5658000477237;-21,1592961476678;383
+Rua Augusta Cesário, 52, Centro Apiacá;0;0;0;;0;0;3200508;;Apiacá;DELEGACIA DE APIACÁ;Polícia Civil;-41,5670999981918;-21,1504011732094;384
+Avenida Presidente Vargas, 384, Penedo, Mimoso do Sul;0;0;0;;0;0;3203403;;Mimoso do Sul;15ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR;Polícia Militar;-41,360000376556;-21,0608977886711;385
+Rua Colina de Araribóia, Centro, Mimoso do Sul;0;0;0;;0;0;3203403;;Mimoso do Sul;DELEGACIA DE MIMOSO DO SUL;Polícia Civil;-41,3620997955187;-21,0632976187534;386
+Rua João Felipe, Centro, Alto Rio Novo;0;0;0;;0;0;3200359;;Alto Rio Novo;DPM DE ALTO RIO NOVO;Polícia Militar;-41,0178998941748;-19,0559009451515;387
+Rua Paulo Martins, Centro, Alto Rio Novo;0;0;0;;0;0;3200359;;Alto Rio Novo;DELEGACIA DE ALTO RIO NOVO;Polícia Civil;-41,0174002842;-19,0584989358725;388
+Rua José da Cruz, 185, Centro, Ecoporanga;0;0;0;;0;0;3202108;;Ecoporanga;UIP - DPM DE ECOPORANGA;Polícia Militar;-40,8292998765245;-18,3733944879812;389
+Rua José da Cruz, Centro, Ecoporanga;0;0;0;;0;0;3202108;;Ecoporanga;DELEGACIA DE ECOPORANGA;Polícia Civil;-40,8292001248312;-18,3729979255373;390
+Rua Joaquim de Souza, Centro, Água Doce do Norte;0;0;0;;0;0;3200169;;Água Doce do Norte;2ª COMPANHIA DO 11º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-40,9813000751061;-18,5488008590825;391
+Avenida São Paulo, 209, Nova Cidade, Boa Esperança;0;0;0;;0;0;3201001;;Boa Esperança;DPM DE BOA ESPERANÇA;Polícia Militar;-40,2907002204236;-18,5397952758153;392
+Rua Doutor Pedro Hekenhoff, 327, Centro, Boa Esperança;0;0;0;;0;0;3201001;;Boa Esperança;DELEGACIA DE BOA ESPERANCA;Polícia Civil;-40,2934994862624;-18,5393966029557;393
+Rodovia José Alves de Oliveira, ES-341, Nilton Sá, Pancas;0;0;0;;0;0;3204005;;Pancas;2º PELOTÃO DA 3ª COMPANHIA DO 8º BATALHÃO;Polícia Militar;-40,8402997731262;-19,2265016860914;394
+Avenida 13 de Maio, 622, Centro, Pancas;0;0;0;;0;0;3204005;;Pancas;2º PELOTÃO DA 3ª COMPANHIA DO 8º BATALHÃO;Polícia Militar;-40,8519998720007;-19,2229057284198;395
+Rua Januário Ribeiro, Vila Verde, Pancas;0;0;0;;0;0;3204005;;Pancas;DPM DE VILA VERDE;Polícia Militar;-40,8745002353134;-18,9724054094559;396
+Rua Diamante, 392, Centro, Pancas;0;0;0;;0;0;3204005;;Pancas;DELEGACIA DE POLÍCIA DE PANCAS;Polícia Civil;-40,8541994996103;-19,2251057693948;397
+Avenida Rio Doce, Sapucaia, Baixo Guandu;0;0;0;;0;0;3200805;;Baixo Guandú;DPM DE BAIXO GUANDU;Polícia Militar;-41,0230003002656;-19,5077015827345;398
+Rua Pedro Álvares Cabral, Rosário I, Baixo Guandu;0;0;0;;0;0;3200805;;Baixo Guandú;12ª COMPANHIA DO 8º BATALHÃO DE POLÍCIA MILITAR;Polícia Militar;-41,028199533089;-19,5073994702433;399
+Rua Eraldo Nunes Ferreira, São Pedro, Baixo Guandu;0;0;0;;0;0;3200805;;Baixo Guandú;DELEGACIA DE BAIXO GUANDU;Polícia Civil;-41,0080003568291;-19,5199998371506;400
