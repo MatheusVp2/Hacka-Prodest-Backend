@@ -4,7 +4,7 @@
         "LAT": "-19,5088989672021",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "3ª COMPANHIA INDEPENDENTE",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rodovia do Café, Km 01, 901, Carlos Germano Naumann, Colatina"
     },
     {
@@ -12,7 +12,7 @@
         "LAT": "-19,52379549237",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rodovia BR-259, km 58, Novo Horizonte, Colatina"
     },
     {
@@ -20,7 +20,7 @@
         "LAT": "-19,5334049382178",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ITAPINA",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Gaubêncio de Souza, 305, Itapina, Colatina"
     },
     {
@@ -28,7 +28,7 @@
         "LAT": "-19,4095022354334",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO - POSTO 12",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rodovia ES-080, Ponte do Pancas, Colatina"
     },
     {
@@ -36,7 +36,7 @@
         "LAT": "-19,540604515347",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PERPÉTUO SOCORRO",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua São Braz,183, Perpétuo Socorro, Colatina"
     },
     {
@@ -44,7 +44,7 @@
         "LAT": "-19,6333970842071",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BOAPABA",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Santa Maria, Boapaba, Colatina"
     },
     {
@@ -52,7 +52,7 @@
         "LAT": "-19,5280000655269",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 8º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Antônio Perutti,723, Honório Fraga, Colatina"
     },
     {
@@ -60,7 +60,7 @@
         "LAT": "-19,5234021609458",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - NOSSA SENHORA APARECIDA",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Castelo Branco, Nossa Senhora Aparecida, Colatina"
     },
     {
@@ -68,7 +68,7 @@
         "LAT": "-19,5308030035353",
         "AGENCIA": "Polícia Militar",
         "NOME": "8º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Pedro Epichim, 68, Colatina Velha, Colatina"
     },
     {
@@ -76,7 +76,7 @@
         "LAT": "-19,4941951319049",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE AYRTON SENNA",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua João Batista do Vale, Ayrton Senna, Colatina"
     },
     {
@@ -84,7 +84,7 @@
         "LAT": "-19,3477990128033",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO JOÃO PEQUENO",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Cinco de Julho, 97, São João Pequeno, Colatina"
     },
     {
@@ -92,7 +92,7 @@
         "LAT": "-19,5138020960638",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILLA VERDI",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Enzo Ferrari, Villa Verdi, Colatina"
     },
     {
@@ -100,7 +100,7 @@
         "LAT": "-19,5510996705615",
         "AGENCIA": "Polícia Militar",
         "NOME": "3º PELOTÃO DA 3ª CIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Avenida Presidente Kennedy, 1243, Vila Lenira, Colatina"
     },
     {
@@ -108,7 +108,7 @@
         "LAT": "-19,517898180369",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMANDO DE POLÍCIA OSTENSIVA NOROESTE - CPO NOROESTE",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Avenida Silvio Avidos, 2055, São Silvano, Colatina"
     },
     {
@@ -116,7 +116,7 @@
         "LAT": "-19,5395944133167",
         "AGENCIA": "Polícia Civil",
         "NOME": "15ª DELEGACIA REGIONAL - COLATINA",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Benjamin Constant, 110, Marista, Colatina"
     },
     {
@@ -124,7 +124,7 @@
         "LAT": "-19,5395944133167",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA REGIONAL NOROESTE - SPRNO",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Benjamim Constante,110, Bairro Marista, Colatina"
     },
     {
@@ -132,7 +132,7 @@
         "LAT": "-19,5397037304554",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Colatina",
+        "MUNICIPIO": "Colatina",
         "LOGRADOURO": "Rua Benjamin Constant, 110, Marista, Colatina"
     },
     {
@@ -140,7 +140,7 @@
         "LAT": "-19,4094996371222",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MARILÂNDIA",
-        "NOME_MUNIC": "Marilândia",
+        "MUNICIPIO": "Marilândia",
         "LOGRADOURO": "Praça Guilherme Passamani, Centro, Marilândia"
     },
     {
@@ -148,7 +148,7 @@
         "LAT": "-19,3640046250427",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SAPUCÁIA",
-        "NOME_MUNIC": "Marilândia",
+        "MUNICIPIO": "Marilândia",
         "LOGRADOURO": "Avenida Vicente Padovan, Sapucáia, Marilândia"
     },
     {
@@ -156,7 +156,7 @@
         "LAT": "-19,4124003248646",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MARILANDIA",
-        "NOME_MUNIC": "Marilândia",
+        "MUNICIPIO": "Marilândia",
         "LOGRADOURO": "Rua São Tarcísio, 210, Centro, Marilândia"
     },
     {
@@ -164,7 +164,7 @@
         "LAT": "-19,000398377377",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILA VALERIO",
-        "NOME_MUNIC": "Vila Valério",
+        "MUNICIPIO": "Vila Valério",
         "LOGRADOURO": "Rua Lourenço Martins, 82, Centro, Vila Valério"
     },
     {
@@ -172,7 +172,7 @@
         "LAT": "-20,8650057226771",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE RIO NOVO DO SUL",
-        "NOME_MUNIC": "Rio Novo do Sul",
+        "MUNICIPIO": "Rio Novo do Sul",
         "LOGRADOURO": "Rua Agenor Lemos Bastos, Centro, Rio Novo do Sul"
     },
     {
@@ -180,7 +180,7 @@
         "LAT": "-20,8641962287603",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE RIO NOVO DO SUL",
-        "NOME_MUNIC": "Rio Novo do Sul",
+        "MUNICIPIO": "Rio Novo do Sul",
         "LOGRADOURO": "Rua Capitão Bley, 13, Centro, Rio Novo do Sul"
     },
     {
@@ -188,7 +188,7 @@
         "LAT": "-20,8359036798728",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 10ª COMPANHIA INDEPENDENTE DA POLÍCIA MILITAR",
-        "NOME_MUNIC": "Piúma",
+        "MUNICIPIO": "Piúma",
         "LOGRADOURO": "Rua Jair Cardoso, Centro, Piúma"
     },
     {
@@ -196,7 +196,7 @@
         "LAT": "-20,8348037735405",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE PIÚMA",
-        "NOME_MUNIC": "Piúma",
+        "MUNICIPIO": "Piúma",
         "LOGRADOURO": "Rodovia Jorge Ferris, Niterói, Piúma"
     },
     {
@@ -204,7 +204,7 @@
         "LAT": "-20,7937941677268",
         "AGENCIA": "Polícia Militar",
         "NOME": "4º PELOTÃO DA 10ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Iconha",
+        "MUNICIPIO": "Iconha",
         "LOGRADOURO": "Avenida Coronel Antonio Duarte, 339, Centro, Iconha"
     },
     {
@@ -212,7 +212,7 @@
         "LAT": "-20,7875960844995",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ICONHA",
-        "NOME_MUNIC": "Iconha",
+        "MUNICIPIO": "Iconha",
         "LOGRADOURO": "Rua Deolindo Paganini, 209, Jardim Jandyra, Iconha"
     },
     {
@@ -220,7 +220,7 @@
         "LAT": "-20,3547066352454",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA DO 1º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Carlos Lindenberg, Alecrim, Vila Velha"
     },
     {
@@ -228,7 +228,7 @@
         "LAT": "-20,3282052554131",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - PAUL",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Praça de Paul, Paul, Vila Velha"
     },
     {
@@ -236,7 +236,7 @@
         "LAT": "-20,3277998139756",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Inhoá, Praça de Prainha, Centro,Vila Velha"
     },
     {
@@ -244,7 +244,7 @@
         "LAT": "-20,3645023350288",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE RIO MARINHO",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Guaraná, Rio Marinho, Vila Velha"
     },
     {
@@ -252,7 +252,7 @@
         "LAT": "-20,3549995799479",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO - POSTO 05",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Carlos Lindenberg, Cobilândia, Vila Velha"
     },
     {
@@ -260,7 +260,7 @@
         "LAT": "-20,3554965478574",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Praça Vereador Sebastião Cibien, Cobilândia, Vila Velha"
     },
     {
@@ -268,7 +268,7 @@
         "LAT": "-20,373700662716",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Silvia de Oliveira Simôes, Parque das Gaivotas, Vila Velha"
     },
     {
@@ -276,7 +276,7 @@
         "LAT": "-20,3358003422121",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - CENTRO",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Jerônimo Monteiro, 1286, Centro, Vila Velha"
     },
     {
@@ -284,7 +284,7 @@
         "LAT": "-20,3452940744044",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - CRISTOVAO COLOMBO",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Cristóvão Colombo, Cristóvão Colombo, Vila Velha"
     },
     {
@@ -292,7 +292,7 @@
         "LAT": "-20,3509993177765",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - ITAPOÃ",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Jair de Andrade, 50, Itapoã, Vila Velha"
     },
     {
@@ -300,7 +300,7 @@
         "LAT": "-20,3862934688704",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - ARACAS",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Araças,  Praça de Araças, Araças, Vila Velha"
     },
     {
@@ -308,7 +308,7 @@
         "LAT": "-20,3421981066065",
         "AGENCIA": "Polícia Militar",
         "NOME": "5ª COMPANHIA DO 4º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua São Luiz, 160, Condomínio Plácido Barcelos, Aribiri, Vila Velha"
     },
     {
@@ -316,7 +316,7 @@
         "LAT": "-20,4103958072044",
         "AGENCIA": "Polícia Militar",
         "NOME": "POSTO DE TRÂNSITO 13",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rodovia ES-060, km 13, Barra do Jucu, Vila Velha"
     },
     {
@@ -324,7 +324,7 @@
         "LAT": "-20,3367014045867",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - PRAIA DA COSTA",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Hugo Musso, 463, Praia da Costa, Vila Velha"
     },
     {
@@ -332,7 +332,7 @@
         "LAT": "-20,3480042823278",
         "AGENCIA": "Polícia Militar",
         "NOME": "4º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 118, Ibes, Vila Velha"
     },
     {
@@ -340,7 +340,7 @@
         "LAT": "-20,4433984232164",
         "AGENCIA": "Polícia Militar",
         "NOME": "13ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Equador, Residencial Jabaeté, Vila Velha"
     },
     {
@@ -348,7 +348,7 @@
         "LAT": "-20,4789016308507",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE INTERLAGOS",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Pedro Bravim, Bairro Interlagos, Vila Velha"
     },
     {
@@ -356,7 +356,7 @@
         "LAT": "-20,5174041358792",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PONTA DA FRUTA",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Judith Goes, Ponta da Fruta, Vila Velha"
     },
     {
@@ -364,7 +364,7 @@
         "LAT": "-20,4455017113127",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE TERRA VERMELHA",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Antonio Elias do Espírito Santo, Terra Vermelha, Vila Velha"
     },
     {
@@ -372,7 +372,7 @@
         "LAT": "-20,4221955153034",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DA BARRA DO JUCU",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Professor João Cardoso,120, Barra do Jucu, Vila Velha"
     },
     {
@@ -380,7 +380,7 @@
         "LAT": "-20,4777020073662",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE XURI",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Estrada  Ayrton Senna da Silva, ES-388, Xuri, Vila Velha"
     },
     {
@@ -388,7 +388,7 @@
         "LAT": "-20,3701958764968",
         "AGENCIA": "Polícia Civil",
         "NOME": "8º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Jorge Majestade, Novo México, Vila Velha"
     },
     {
@@ -396,7 +396,7 @@
         "LAT": "-20,3552012318602",
         "AGENCIA": "Polícia Civil",
         "NOME": "9º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Vereador Sebastião Cibien, 148, Cobilândia, Vila Velha"
     },
     {
@@ -404,7 +404,7 @@
         "LAT": "-20,3486984153669",
         "AGENCIA": "Polícia Civil",
         "NOME": "7º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Dom Fernando, 8, Santa Inês, Vila Velha"
     },
     {
@@ -412,7 +412,7 @@
         "LAT": "-20,3361986060691",
         "AGENCIA": "Polícia Civil",
         "NOME": "2ª DELEGACIA REGIONAL - VILA VELHA",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Rua Amália, Jaburuna, Vila Velha"
     },
     {
@@ -420,7 +420,7 @@
         "LAT": "-20,332397853169",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Luciano das Neves, 430, Prainha, Vila Velha"
     },
     {
@@ -428,7 +428,7 @@
         "LAT": "-20,332506268687",
         "AGENCIA": "Polícia Civil",
         "NOME": "6º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vila Velha",
+        "MUNICIPIO": "Vila Velha",
         "LOGRADOURO": "Avenida Luciano das Neves, 430, Prainha, Vila Velha"
     },
     {
@@ -436,7 +436,7 @@
         "LAT": "-20,3358042885901",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA DO 4º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Venda Nova do Imigrante",
+        "MUNICIPIO": "Venda Nova do Imigrante",
         "LOGRADOURO": "Rodovia BR-262, Km 108, Bicuíba, Venda Nova do Imigrante"
     },
     {
@@ -444,7 +444,7 @@
         "LAT": "-20,3361015971988",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VENDA NOVA DO IMIGRANTE",
-        "NOME_MUNIC": "Venda Nova do Imigrante",
+        "MUNICIPIO": "Venda Nova do Imigrante",
         "LOGRADOURO": "Rua Lourenço Lourenção,102, Centro, Venda Nova do Imigrante"
     },
     {
@@ -452,7 +452,7 @@
         "LAT": "-20,3269016076607",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMANDO DE POLÍCIA OSTENSIVA SERRANA - CPO SERRANA",
-        "NOME_MUNIC": "Venda Nova do Imigrante",
+        "MUNICIPIO": "Venda Nova do Imigrante",
         "LOGRADOURO": "Avenida Fioravante Zandonadi, 30, Marmin, Venda Nova do Imigrante"
     },
     {
@@ -460,7 +460,7 @@
         "LAT": "-20,3266945051168",
         "AGENCIA": "Polícia Civil",
         "NOME": "11ª DELEGACIA REGIONAL - VENDA NOVA DO IMIGRANTE",
-        "NOME_MUNIC": "Venda Nova do Imigrante",
+        "MUNICIPIO": "Venda Nova do Imigrante",
         "LOGRADOURO": "Rua 29 de junho, 1945, Bananeiras, Venda Nova do Imigrante"
     },
     {
@@ -468,7 +468,7 @@
         "LAT": "-20,3266957266791",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA REGIONAL SERRANA - SPRSR",
-        "NOME_MUNIC": "Venda Nova do Imigrante",
+        "MUNICIPIO": "Venda Nova do Imigrante",
         "LOGRADOURO": "Rua 29 de Junho,1945, bananeiras, Venda Nova do Imigrante"
     },
     {
@@ -476,7 +476,7 @@
         "LAT": "-20,60219959004",
         "AGENCIA": "Polícia Militar",
         "NOME": "UIP DE CASTELO",
-        "NOME_MUNIC": "Castelo",
+        "MUNICIPIO": "Castelo",
         "LOGRADOURO": "Avenida Oscar Alves Rangel, Volta Redonda, Castelo"
     },
     {
@@ -484,7 +484,7 @@
         "LAT": "-20,5994036716375",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE CASTELO",
-        "NOME_MUNIC": "Castelo",
+        "MUNICIPIO": "Castelo",
         "LOGRADOURO": "Rua Soares, 16, Independência, Castelo"
     },
     {
@@ -492,7 +492,7 @@
         "LAT": "-20,0441007967813",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PRAIA GRANDE",
-        "NOME_MUNIC": "Fundão",
+        "MUNICIPIO": "Fundão",
         "LOGRADOURO": "Avenida Linhares,1199, Praia Grande, Fundão"
     },
     {
@@ -500,7 +500,7 @@
         "LAT": "-19,9330002523288",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE FUNDAO",
-        "NOME_MUNIC": "Fundão",
+        "MUNICIPIO": "Fundão",
         "LOGRADOURO": "Rua Interventor Santos Neves, Centro, Fundão"
     },
     {
@@ -508,7 +508,7 @@
         "LAT": "-20,0007981587288",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE TIMBUÍ",
-        "NOME_MUNIC": "Fundão",
+        "MUNICIPIO": "Fundão",
         "LOGRADOURO": "Rua João Miguel, 06, Timbuí, Fundão"
     },
     {
@@ -516,7 +516,7 @@
         "LAT": "-19,9329951730765",
         "AGENCIA": "Polícia Civil",
         "NOME": "NUCLEO POLICIAL DE FUNDAO",
-        "NOME_MUNIC": "Fundão",
+        "MUNICIPIO": "Fundão",
         "LOGRADOURO": "Rua Everaldino Silva, 60, Centro, Fundão"
     },
     {
@@ -524,7 +524,7 @@
         "LAT": "-20,9803985730922",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PAINEIRAS",
-        "NOME_MUNIC": "Itapemirim",
+        "MUNICIPIO": "Itapemirim",
         "LOGRADOURO": "Rodovia ES-490, Km 16, Paineiras, Itapemirim"
     },
     {
@@ -532,7 +532,7 @@
         "LAT": "-20,9035987104853",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ITAOCA",
-        "NOME_MUNIC": "Itapemirim",
+        "MUNICIPIO": "Itapemirim",
         "LOGRADOURO": "Rua Donário Pessanha, Itaoca, Itapemirim"
     },
     {
@@ -540,7 +540,7 @@
         "LAT": "-21,0096006926283",
         "AGENCIA": "Polícia Civil",
         "NOME": "9ª DELEGACIA REGIONAL - ITAPEMIRIM",
-        "NOME_MUNIC": "Itapemirim",
+        "MUNICIPIO": "Itapemirim",
         "LOGRADOURO": "Rua Coronel Marcondes de Souza, 107, Centro, Itapemirm"
     },
     {
@@ -548,7 +548,7 @@
         "LAT": "-20,9139992821974",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ATÍLIO VIVACQUA",
-        "NOME_MUNIC": "Atílio Vivacqua",
+        "MUNICIPIO": "Atílio Vivacqua",
         "LOGRADOURO": "Rua Professor José Ferreira Borges, 06,Centro, Atílio Vivacqua"
     },
     {
@@ -556,7 +556,7 @@
         "LAT": "-20,9138032068812",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ATILIO VIVACQUA",
-        "NOME_MUNIC": "Atílio Vivacqua",
+        "MUNICIPIO": "Atílio Vivacqua",
         "LOGRADOURO": "Rua José Ferreira Ramos, 25, Centro, Atílio Vivacqua"
     },
     {
@@ -564,7 +564,7 @@
         "LAT": "-20,8410019503142",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "3º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Avenida Francisco Mardegan, Marbrasa, Cachoeiro de Itapemirim"
     },
     {
@@ -572,7 +572,7 @@
         "LAT": "-20,8451010954541",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 9º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Avenida Beira Rio, 100, Guandu, Cachoeiro de Itapemirim"
     },
     {
@@ -580,7 +580,7 @@
         "LAT": "-20,8627061696996",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - PARAÍSO",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua Quintino Bocaiuva, Praça de Paraíso, Paraíso, Cachoeiro de Itapemirim"
     },
     {
@@ -588,7 +588,7 @@
         "LAT": "-20,8418040522903",
         "AGENCIA": "Polícia Militar",
         "NOME": "POSTO DE TRÂNSITO",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Trevo de Marbrasa, Marbrasa, Cachoeiro de Itapemirim"
     },
     {
@@ -596,7 +596,7 @@
         "LAT": "-20,8429012386496",
         "AGENCIA": "Polícia Militar",
         "NOME": "CIODES SUL",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Avenida Nossa Senhora da Consolação, 234, Vila Rica, Cachoeiro de Itapemirim"
     },
     {
@@ -604,7 +604,7 @@
         "LAT": "-20,8306989393266",
         "AGENCIA": "Polícia Militar",
         "NOME": "4ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua Ary Amaral, Aeroporto, Cachoeiro de Itapemirim"
     },
     {
@@ -612,7 +612,7 @@
         "LAT": "-20,852598416814",
         "AGENCIA": "Polícia Militar",
         "NOME": "9º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua Sisypho Sardenberg, 02, São Luiz Gonzaga, Cachoeiro de Itapemirim"
     },
     {
@@ -620,7 +620,7 @@
         "LAT": "-20,7650014739175",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SOTURNO",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Praça José Lunz, Vargem Grande de Soturno, Cachoeiro de Itapemirim"
     },
     {
@@ -628,7 +628,7 @@
         "LAT": "-20,8429993330349",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMANDO DE POLÍCIA OSTENSIVA SUL - CPOS",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Avenida Nossa Senhora da Consolação, 234, Vila Rica, Cachoeiro de Itapemirim"
     },
     {
@@ -636,7 +636,7 @@
         "LAT": "-20,8477040816817",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua 25 de março, 126, Centro, Cachoeiro de Itapemirim"
     },
     {
@@ -644,7 +644,7 @@
         "LAT": "-20,8344023594553",
         "AGENCIA": "Polícia Civil",
         "NOME": "7ª DELEGACIA REGIONAL - CACHOEIRO DE ITAPEMIRIM",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua Carlos Marão, 102, BNH, Cachoeiro de Itapemirim"
     },
     {
@@ -652,7 +652,7 @@
         "LAT": "-20,834601042606",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA REGIONAL SUL - SPRS",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua Carlos Marão, 102, BNH, Cachoeiro de Itapemirim"
     },
     {
@@ -660,7 +660,7 @@
         "LAT": "-20,8345017070713",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEL. DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP C. ITAPEMIRIM",
-        "NOME_MUNIC": "Cachoeiro de Itapemirim",
+        "MUNICIPIO": "Cachoeiro de Itapemirim",
         "LOGRADOURO": "Rua Carlos Marão, 102, Luiz Tinoco da Fonseca, Cachoeiro de Itapemirim"
     },
     {
@@ -668,7 +668,7 @@
         "LAT": "-19,1905974135024",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SOORETAMA",
-        "NOME_MUNIC": "Sooretama",
+        "MUNICIPIO": "Sooretama",
         "LOGRADOURO": "Rua Boa Esperança, 345, Centro, Sooretama"
     },
     {
@@ -676,7 +676,7 @@
         "LAT": "-19,1886026306514",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE SOORETAMA",
-        "NOME_MUNIC": "Sooretama",
+        "MUNICIPIO": "Sooretama",
         "LOGRADOURO": "Avenida Cristo Rei, 33, Centro, Sooretama"
     },
     {
@@ -684,7 +684,7 @@
         "LAT": "-19,8307988841615",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA INDEPENDENTE",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida Presidente Castelo Branco, 476, Bela Vista, Aracruz"
     },
     {
@@ -692,7 +692,7 @@
         "LAT": "-19,9441954649363",
         "AGENCIA": "Polícia Militar",
         "NOME": "POSTO DE TRÂNSITO",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rodovia ES-010, Km 45, Pontal de Piraqueaçu, Aracruz"
     },
     {
@@ -700,7 +700,7 @@
         "LAT": "-19,7524053568481",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILA DO RIACHO",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida São Benedito, Vila do Riacho, Aracruz"
     },
     {
@@ -708,7 +708,7 @@
         "LAT": "-19,8268992316817",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DA BARRA DO RIACHO",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida Professor Aparício Alvarenga, Barra do Riacho, Aracruz"
     },
     {
@@ -716,7 +716,7 @@
         "LAT": "-19,9541005712599",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA CRUZ",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rua Tenente Coronel Paixão, Santa Cruz, Aracruz"
     },
     {
@@ -724,7 +724,7 @@
         "LAT": "-19,8783985995856",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BARRA DO SAHY",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rodovia ES-010, Barra do Sahy, Aracruz"
     },
     {
@@ -732,7 +732,7 @@
         "LAT": "-19,9307941401202",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 5º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida dos Coqueiros, Coqueiral, Aracruz"
     },
     {
@@ -740,7 +740,7 @@
         "LAT": "-19,678306096155",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE GUARANA",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida Gabriel Pandolfi, Guaraná, Aracruz"
     },
     {
@@ -748,7 +748,7 @@
         "LAT": "-19,9040013789618",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA ROSA",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rodovia Primo Bitti, Santa Rosa, Aracruz"
     },
     {
@@ -756,7 +756,7 @@
         "LAT": "-19,5875035891909",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JACUPEMBA",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rua David Lechi, Jacupemba, Aracruz"
     },
     {
@@ -764,7 +764,7 @@
         "LAT": "-19,8219035351356",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 5º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida Venâncio Flores, 1161, Centro, Aracruz"
     },
     {
@@ -772,7 +772,7 @@
         "LAT": "-19,8289041717282",
         "AGENCIA": "Polícia Militar",
         "NOME": "5º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida Demócrito Moreira, 60, Fátima, Aracruz"
     },
     {
@@ -780,7 +780,7 @@
         "LAT": "-19,8201980392192",
         "AGENCIA": "Polícia Civil",
         "NOME": "13ª DELEGACIA REGIONAL - ARACRUZ",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Avenida Venâncio Flores, 1333, Centro, Aracruz"
     },
     {
@@ -788,7 +788,7 @@
         "LAT": "-19,8202981362927",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP ARACRUZ",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rua Padre Luiz Parenzi, 1333, Centro, Aracruz"
     },
     {
@@ -796,7 +796,7 @@
         "LAT": "-19,8202063575235",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Aracruz",
+        "MUNICIPIO": "Aracruz",
         "LOGRADOURO": "Rua Padre Luiz Parenzi, 1333, Centro, Aracruz"
     },
     {
@@ -804,7 +804,7 @@
         "LAT": "-20,0980061682862",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE CARAMURU",
-        "NOME_MUNIC": "Santa Maria de Jetibá",
+        "MUNICIPIO": "Santa Maria de Jetibá",
         "LOGRADOURO": "Rua São Sebastião, Caramuru, Santa Maria de Jetibá"
     },
     {
@@ -812,7 +812,7 @@
         "LAT": "-20,031101297138",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA MARIA DE JETIBÁ",
-        "NOME_MUNIC": "Santa Maria de Jetibá",
+        "MUNICIPIO": "Santa Maria de Jetibá",
         "LOGRADOURO": "Avenida Frederico Grulke, 401, Centro, Santa Maria de Jetibá"
     },
     {
@@ -820,7 +820,7 @@
         "LAT": "-20,1531996450252",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO JOÃO DO GARRAFÃO",
-        "NOME_MUNIC": "Santa Maria de Jetibá",
+        "MUNICIPIO": "Santa Maria de Jetibá",
         "LOGRADOURO": "Avenida João Pedro Louvers, 505, São João do Garrafão, Santa Maria de Jetibá"
     },
     {
@@ -828,7 +828,7 @@
         "LAT": "-20,0310981667095",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE SANTA MARIA DE JETIBA",
-        "NOME_MUNIC": "Santa Maria de Jetibá",
+        "MUNICIPIO": "Santa Maria de Jetibá",
         "LOGRADOURO": "Ladeira Manoel Candeira, 84, Centro, Santa Maria de Jetibá"
     },
     {
@@ -836,7 +836,7 @@
         "LAT": "-21,0988020653882",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PRESIDENTE KENNEDY",
-        "NOME_MUNIC": "Presidente Kennedy",
+        "MUNICIPIO": "Presidente Kennedy",
         "LOGRADOURO": "Rodovia ES-162, Avenida Olimpio Pinto Campos Figueiredo, Centro, Presidente Kennedy"
     },
     {
@@ -844,7 +844,7 @@
         "LAT": "-21,0991017539097",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE PRESIDENTE KENNEDY",
-        "NOME_MUNIC": "Presidente Kennedy",
+        "MUNICIPIO": "Presidente Kennedy",
         "LOGRADOURO": "Rua Demétrio Calassa, 233, Centro, Presidente Kennedy"
     },
     {
@@ -852,7 +852,7 @@
         "LAT": "-20,788297238112",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JERONIMO MONTEIRO",
-        "NOME_MUNIC": "Jerônimo Monteiro",
+        "MUNICIPIO": "Jerônimo Monteiro",
         "LOGRADOURO": "Rua Searon Moraes, 68, Centro, Jerônimo Monteiro"
     },
     {
@@ -860,7 +860,7 @@
         "LAT": "-20,7871066853878",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE JERONIMO MONTEIRO",
-        "NOME_MUNIC": "Jerônimo Monteiro",
+        "MUNICIPIO": "Jerônimo Monteiro",
         "LOGRADOURO": "Ladeira da Igualdade, Centro, Jerônimo Monteiro"
     },
     {
@@ -868,7 +868,7 @@
         "LAT": "-20,3372019909549",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PIAÇU",
-        "NOME_MUNIC": "Muniz Freire",
+        "MUNICIPIO": "Muniz Freire",
         "LOGRADOURO": "Rua Braulio Machado, Piaçu, Muniz Freire"
     },
     {
@@ -876,7 +876,7 @@
         "LAT": "-20,4569973410248",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MUNIZ FREIRE",
-        "NOME_MUNIC": "Muniz Freire",
+        "MUNICIPIO": "Muniz Freire",
         "LOGRADOURO": "Avenida Helia Martins de Assis, Santa Barbara, Muiniz Freire"
     },
     {
@@ -884,7 +884,7 @@
         "LAT": "-20,4663039978051",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE MUNIZ FREIRE",
-        "NOME_MUNIC": "Muniz Freire",
+        "MUNICIPIO": "Muniz Freire",
         "LOGRADOURO": "Rua Manoel Alonso Portela, 55, Centro, Muniz Freire"
     },
     {
@@ -892,7 +892,7 @@
         "LAT": "-20,3571971950871",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE CONCEICAO DO CASTELO",
-        "NOME_MUNIC": "Conceiçao do Castelo",
+        "MUNICIPIO": "Conceiçao do Castelo",
         "LOGRADOURO": "Avenida José Grillo, 355, Centro, Conceição do Castelo"
     },
     {
@@ -900,7 +900,7 @@
         "LAT": "-20,3572966120686",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE CONCEICAO DO CASTELO",
-        "NOME_MUNIC": "Conceiçao do Castelo",
+        "MUNICIPIO": "Conceiçao do Castelo",
         "LOGRADOURO": "Avenida Governador Lacerda de Aguiar, 86, Centro, Conceição do Castelo"
     },
     {
@@ -908,7 +908,7 @@
         "LAT": "-20,3436989042779",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "6º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia BR-262, Trevo da Ceasa, Cariacica"
     },
     {
@@ -916,7 +916,7 @@
         "LAT": "-20,3238966216013",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Vitória, 14, Itacibá, Cariacica"
     },
     {
@@ -924,7 +924,7 @@
         "LAT": "-20,3731012506703",
         "AGENCIA": "Polícia Militar",
         "NOME": "5ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Praça de Castelo Branco, Rua 20, Castelo Branco, Cariacica"
     },
     {
@@ -932,7 +932,7 @@
         "LAT": "-20,3100015334559",
         "AGENCIA": "Polícia Militar",
         "NOME": "ACADEMIA DE POLÍCIA MILITAR DO ESPÍRITO SANTO - APM",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia José Sette, km 4,5, Tucum, Cariacica"
     },
     {
@@ -940,7 +940,7 @@
         "LAT": "-20,3180017813712",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia Governador José Sette, km 2,5, Tucum, Cariacica"
     },
     {
@@ -948,7 +948,7 @@
         "LAT": "-20,2649039593944",
         "AGENCIA": "Polícia Militar",
         "NOME": "4ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Presidente Vargas, 23, Cariacica Sede, Cariacica"
     },
     {
@@ -956,7 +956,7 @@
         "LAT": "-20,342004001911",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua São João, Campo Grande, Cariacica"
     },
     {
@@ -964,7 +964,7 @@
         "LAT": "-20,2873977175703",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 7º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Beira Linha, Flexal I, Cariacica"
     },
     {
@@ -972,7 +972,7 @@
         "LAT": "-20,3174050756775",
         "AGENCIA": "Polícia Militar",
         "NOME": "7º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia Governador José Sette,01, Km 2,5,Tucum, Cariacica"
     },
     {
@@ -980,7 +980,7 @@
         "LAT": "-20,2628995308335",
         "AGENCIA": "Polícia Militar",
         "NOME": "UIP DE NOVA ROSA DA PENHA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua 15, Quadra 12, Nova Rosa da Penha, Caricacica"
     },
     {
@@ -988,7 +988,7 @@
         "LAT": "-20,3540978061123",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO BENEDITO",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Avenida Costa Brandão, São Geraldo II, Cariacica"
     },
     {
@@ -996,7 +996,7 @@
         "LAT": "-20,3346049728854",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JARDIM AMÉRICA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Dominicana, 143, Rua Dominicana, Cariacica"
     },
     {
@@ -1004,7 +1004,7 @@
         "LAT": "-20,349998332882",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BELA  AURORA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Fernando Antônio, Bela Aurora, Cariacica"
     },
     {
@@ -1012,7 +1012,7 @@
         "LAT": "-20,341202439758",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DA CEASA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia BR-262, Km 6,5, CEASA, Vila Capixaba, Cariacica"
     },
     {
@@ -1020,7 +1020,7 @@
         "LAT": "-20,3496066944818",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MORADA DE SANTA FÉ",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Avenida Vandelino Santos, Morada de Santa Fé, Caricacica"
     },
     {
@@ -1028,7 +1028,7 @@
         "LAT": "-20,3382940171581",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMPANHIA INDEPENDENTE DE MISSÕES ESPECIAIS - CIMESP",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Bogotá, 182, Jardim América, Cariacica"
     },
     {
@@ -1036,7 +1036,7 @@
         "LAT": "-20,2642944855585",
         "AGENCIA": "Polícia Civil",
         "NOME": "14º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Graciano Neves, Cariacica Sede, Cariacica"
     },
     {
@@ -1044,7 +1044,7 @@
         "LAT": "-20,3230022139376",
         "AGENCIA": "Polícia Civil",
         "NOME": "15º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Vitória, 4, Itacibá, Cariacica"
     },
     {
@@ -1052,7 +1052,7 @@
         "LAT": "-20,3381024179851",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia BR-262, Km 03, Vera Cruz, Cariacica"
     },
     {
@@ -1060,7 +1060,7 @@
         "LAT": "-20,3307949333085",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEL. ESP. DE PROTECAO AO MEIO AMBIENTE - DEPMA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia BR-262, Km 0, Estação Pedro Nolasco, Jardim América, Cariacica"
     },
     {
@@ -1068,7 +1068,7 @@
         "LAT": "-20,3373990612178",
         "AGENCIA": "Polícia Civil",
         "NOME": "4ª DELEGACIA REGIONAL - CARIACICA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rua Alfredo Alcure, 1, Rio Branco, Cariacica"
     },
     {
@@ -1076,7 +1076,7 @@
         "LAT": "-20,3307045878312",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP CARIACICA",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Rodovia BR-262, Km 0, Estação Pedro Nolasco, Jardim América, Cariacica"
     },
     {
@@ -1084,7 +1084,7 @@
         "LAT": "-20,338200214672",
         "AGENCIA": "Polícia Civil",
         "NOME": "16º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Avenida Mario Gurgel, Rodovia BR-262, Km 3,5, Vera Cruz, Cariacica"
     },
     {
@@ -1092,7 +1092,7 @@
         "LAT": "-20,3379955873479",
         "AGENCIA": "Polícia Civil",
         "NOME": "17º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Cariacica",
+        "MUNICIPIO": "Cariacica",
         "LOGRADOURO": "Avenida Mario Gurgel, Rodovia BR-262, Km 3,5, Vera Cruz, Cariacica"
     },
     {
@@ -1100,7 +1100,7 @@
         "LAT": "-18,0933987854018",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MUCURICI",
-        "NOME_MUNIC": "Mucurici",
+        "MUNICIPIO": "Mucurici",
         "LOGRADOURO": "Rua Coronel Vidilino de Lima, Centro, Mucurici"
     },
     {
@@ -1108,7 +1108,7 @@
         "LAT": "-17,9393941108519",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ITABAIANA",
-        "NOME_MUNIC": "Mucurici",
+        "MUNICIPIO": "Mucurici",
         "LOGRADOURO": "Rua João Lopes, Itabaiana, Mucurici"
     },
     {
@@ -1116,7 +1116,7 @@
         "LAT": "-18,0995002874269",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE MUCURICI",
-        "NOME_MUNIC": "Mucurici",
+        "MUNICIPIO": "Mucurici",
         "LOGRADOURO": "Avenida Presidente Kennedy, 01, Mucurici"
     },
     {
@@ -1124,7 +1124,7 @@
         "LAT": "-18,6202960789116",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILA PAVÃO",
-        "NOME_MUNIC": "Vila Pavao",
+        "MUNICIPIO": "Vila Pavao",
         "LOGRADOURO": "Rua São Pedro, 35, Centro, Vila Pavão"
     },
     {
@@ -1132,7 +1132,7 @@
         "LAT": "-18,6878041960723",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA DO 2º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Nova Venécia",
+        "MUNICIPIO": "Nova Venécia",
         "LOGRADOURO": "Rodovia XV de Novembro, Altoé, Nova Venécia"
     },
     {
@@ -1140,7 +1140,7 @@
         "LAT": "-18,7034987596488",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Nova Venécia",
+        "MUNICIPIO": "Nova Venécia",
         "LOGRADOURO": "Avenida Guanabara, 40, Iolanda, Nova Venécia"
     },
     {
@@ -1148,7 +1148,7 @@
         "LAT": "-18,8090013970868",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE CEDROLÂNDIA",
-        "NOME_MUNIC": "Nova Venécia",
+        "MUNICIPIO": "Nova Venécia",
         "LOGRADOURO": "Rua Cedro, Cedrolândia, Nova Venécia"
     },
     {
@@ -1156,7 +1156,7 @@
         "LAT": "-18,7117993394571",
         "AGENCIA": "Polícia Civil",
         "NOME": "17ª DELEGACIA REGIONAL - NOVA VENÉCIA",
-        "NOME_MUNIC": "Nova Venécia",
+        "MUNICIPIO": "Nova Venécia",
         "LOGRADOURO": "Avenida Vitória, 17, Centro, Nova Venécia"
     },
     {
@@ -1164,7 +1164,7 @@
         "LAT": "-18,1235001481382",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PONTO BELO",
-        "NOME_MUNIC": "Ponto Belo",
+        "MUNICIPIO": "Ponto Belo",
         "LOGRADOURO": "Rua Espírito Santo, Centro, Ponto Belo"
     },
     {
@@ -1172,7 +1172,7 @@
         "LAT": "-18,4149006458128",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PINHEIROS",
-        "NOME_MUNIC": "Pinheiros",
+        "MUNICIPIO": "Pinheiros",
         "LOGRADOURO": "Rua Gil Veloso, 891,Vila Nova, Pinheiros"
     },
     {
@@ -1180,7 +1180,7 @@
         "LAT": "-18,4072017608061",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE PINHEIROS",
-        "NOME_MUNIC": "Pinheiros",
+        "MUNICIPIO": "Pinheiros",
         "LOGRADOURO": "Rua Claudiomar Sobrinho, Canário, Pinheiros"
     },
     {
@@ -1188,7 +1188,7 @@
         "LAT": "-18,1262000074823",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MONTANHA",
-        "NOME_MUNIC": "Montanha",
+        "MUNICIPIO": "Montanha",
         "LOGRADOURO": "Avenida Getúlio Vargas ,632, Centro, Montanha"
     },
     {
@@ -1196,7 +1196,7 @@
         "LAT": "-18,1289002816001",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MONTANHA",
-        "NOME_MUNIC": "Montanha",
+        "MUNICIPIO": "Montanha",
         "LOGRADOURO": "Rua Anchieta, 651, Centro, Montanha"
     },
     {
@@ -1204,7 +1204,7 @@
         "LAT": "-18,2931063408401",
         "AGENCIA": "Polícia Militar",
         "NOME": "UIP - 3ª COMPANHIA DO 13 BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Pedro Canário",
+        "MUNICIPIO": "Pedro Canário",
         "LOGRADOURO": "Rua Doutor Washington Luiz da Silva, Novo Horizonte, Pedro Canário"
     },
     {
@@ -1212,7 +1212,7 @@
         "LAT": "-18,0861026680433",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE CRISTAL DO NORTE",
-        "NOME_MUNIC": "Pedro Canário",
+        "MUNICIPIO": "Pedro Canário",
         "LOGRADOURO": "Avenida Francisco Porfirio de Souza, Cristal do Norte, Pedro Canário"
     },
     {
@@ -1220,7 +1220,7 @@
         "LAT": "-18,3066963470549",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE PEDRO CANARIO",
-        "NOME_MUNIC": "Pedro Canário",
+        "MUNICIPIO": "Pedro Canário",
         "LOGRADOURO": "Rua São Roque, Boa Vista, Pedro Canário"
     },
     {
@@ -1228,7 +1228,7 @@
         "LAT": "-18,5672986542205",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - CONCEIÇÃO DA BARRA",
-        "NOME_MUNIC": "Conceiçao da Barra",
+        "MUNICIPIO": "Conceiçao da Barra",
         "LOGRADOURO": "Rodovia Adolpho Serra, Portal de Conceição da Barra, Novo Horizonte, Conceição da Barra"
     },
     {
@@ -1236,7 +1236,7 @@
         "LAT": "-18,4199059379969",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ITAUNAS",
-        "NOME_MUNIC": "Conceiçao da Barra",
+        "MUNICIPIO": "Conceiçao da Barra",
         "LOGRADOURO": "Avenida Bento Daher, Itaunas, Conceição da Barra"
     },
     {
@@ -1244,7 +1244,7 @@
         "LAT": "-18,5833051929439",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 13º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Conceiçao da Barra",
+        "MUNICIPIO": "Conceiçao da Barra",
         "LOGRADOURO": "Avenida Nossa Senhora da Conceição, Centro, Conceição da Barra"
     },
     {
@@ -1252,7 +1252,7 @@
         "LAT": "-18,4286934010817",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - BRACO DO RIO PRETO",
-        "NOME_MUNIC": "Conceiçao da Barra",
+        "MUNICIPIO": "Conceiçao da Barra",
         "LOGRADOURO": "Rua Ceará, Braço do Rio Preto, Conceição da Barra"
     },
     {
@@ -1260,7 +1260,7 @@
         "LAT": "-18,5958993566178",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE CONCEICAO DA BARRA",
-        "NOME_MUNIC": "Conceiçao da Barra",
+        "MUNICIPIO": "Conceiçao da Barra",
         "LOGRADOURO": "Travessa dos Pinheiros, Centro, Conceição da Barra"
     },
     {
@@ -1268,7 +1268,7 @@
         "LAT": "-19,25080098682",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE GOVERNADOR LINDENBERG",
-        "NOME_MUNIC": "Governador Lindenberg",
+        "MUNICIPIO": "Governador Lindenberg",
         "LOGRADOURO": "Rua São José, Centro, Governador Lindenberg"
     },
     {
@@ -1276,7 +1276,7 @@
         "LAT": "-19,2197988719243",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE NOVO BRASIL",
-        "NOME_MUNIC": "Governador Lindenberg",
+        "MUNICIPIO": "Governador Lindenberg",
         "LOGRADOURO": "Rua Alvino Paulo Pereira, Novo Brasil, Governador Lindenberg"
     },
     {
@@ -1284,7 +1284,7 @@
         "LAT": "-19,8307978071926",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE IBIRACU",
-        "NOME_MUNIC": "Ibiraçu",
+        "MUNICIPIO": "Ibiraçu",
         "LOGRADOURO": "Rua dos Martins Pescadores, Ericina, Ibiraçu"
     },
     {
@@ -1292,7 +1292,7 @@
         "LAT": "-19,8312005383538",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE IBIRAÇU",
-        "NOME_MUNIC": "Ibiraçu",
+        "MUNICIPIO": "Ibiraçu",
         "LOGRADOURO": "Rua Selmira Guasti Gratz, Centro, Ibiraçu"
     },
     {
@@ -1300,7 +1300,7 @@
         "LAT": "-19,8015014603122",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ITAGUACU",
-        "NOME_MUNIC": "Itaguaçu",
+        "MUNICIPIO": "Itaguaçu",
         "LOGRADOURO": "Rua Bernadino Monteiro, Centro, Itaguaçu"
     },
     {
@@ -1308,7 +1308,7 @@
         "LAT": "-19,8031982503767",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ITAGUACU",
-        "NOME_MUNIC": "Itaguaçu",
+        "MUNICIPIO": "Itaguaçu",
         "LOGRADOURO": "Rua João Barbosa de Menezes, 137, Centro, Itaguaçu"
     },
     {
@@ -1316,7 +1316,7 @@
         "LAT": "-19,7364007314711",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO ROQUE DO CANAÃ",
-        "NOME_MUNIC": "Sao Roque do Canaa",
+        "MUNICIPIO": "Sao Roque do Canaa",
         "LOGRADOURO": "Rodovia Armando Martinelli, Cinco Casinhas, São Roque do Canaã"
     },
     {
@@ -1324,7 +1324,7 @@
         "LAT": "-21,0085041764696",
         "AGENCIA": "Polícia Militar",
         "NOME": "9ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Marataízes",
+        "MUNICIPIO": "Marataízes",
         "LOGRADOURO": "Rua Doutor Jaime dos Santos Neves, 44, Barra de Itapemirim, Marataízes"
     },
     {
@@ -1332,7 +1332,7 @@
         "LAT": "-21,0281979307674",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MARATAIZES",
-        "NOME_MUNIC": "Marataízes",
+        "MUNICIPIO": "Marataízes",
         "LOGRADOURO": "Avenida Rubens Rangel, 22, Cidade Nova, Marataízes"
     },
     {
@@ -1340,7 +1340,7 @@
         "LAT": "-20,3729024265978",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE CAMPO VERDE",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Rua C, Campo Verde, Viana"
     },
     {
@@ -1348,7 +1348,7 @@
         "LAT": "-20,3909980221743",
         "AGENCIA": "Polícia Militar",
         "NOME": "11ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Rua Governador Rubim, 252, Centro, Viana"
     },
     {
@@ -1356,7 +1356,7 @@
         "LAT": "-20,3513038093258",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MARCÍLIO DE NORONHA",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Avenida Vitória, Marcílio de Noronha, Viana"
     },
     {
@@ -1364,7 +1364,7 @@
         "LAT": "-20,3517010006481",
         "AGENCIA": "Polícia Militar",
         "NOME": "11ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Rodovia BR-262, Km 7, CALIR, Guaritas,Viana"
     },
     {
@@ -1372,7 +1372,7 @@
         "LAT": "-20,3923939875992",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP VIANA",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Rua Desembargador Levino Chacon, 149, Centro, Viana"
     },
     {
@@ -1380,7 +1380,7 @@
         "LAT": "-20,3925023940382",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Avenida Levino Chacon, 149, Centro, Viana"
     },
     {
@@ -1388,7 +1388,7 @@
         "LAT": "-20,3925023940382",
         "AGENCIA": "Polícia Civil",
         "NOME": "18º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Viana",
+        "MUNICIPIO": "Viana",
         "LOGRADOURO": "Rua Desembargador Levino Chacon, 149, Centro, Viana"
     },
     {
@@ -1396,7 +1396,7 @@
         "LAT": "-20,3190947983083",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PARAJU",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Rua Coriolano Guilherme Stein, Paraju, Domingos Martins"
     },
     {
@@ -1404,7 +1404,7 @@
         "LAT": "-20,3818972037233",
         "AGENCIA": "Polícia Militar",
         "NOME": "1º PELOTÃO DA 6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Avenida João Ricardo Schorling, Centro, Domingos Martins"
     },
     {
@@ -1412,7 +1412,7 @@
         "LAT": "-20,3591000430678",
         "AGENCIA": "Polícia Militar",
         "NOME": "6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Terminal Rodoviário Manoel Pereira de Jesus, Rua Bernardino Monteiro, 340, Centro, Domingos Martins"
     },
     {
@@ -1420,7 +1420,7 @@
         "LAT": "-20,3063934041715",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BELA VISTA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rodovia Serafim Derenzi, Bela Vista, Vitória"
     },
     {
@@ -1428,7 +1428,7 @@
         "LAT": "-20,3792987103988",
         "AGENCIA": "Polícia Militar",
         "NOME": "3º PELOTÃO DA 6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Avenida Modolo, Pedra Azul, Domingos Martins"
     },
     {
@@ -1436,7 +1436,7 @@
         "LAT": "-20,3818002754087",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA ISABEL",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Rua Principal, Santa Isabel, Domingos Martins"
     },
     {
@@ -1444,7 +1444,7 @@
         "LAT": "-20,3637028066047",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 1ª CIA DO BATALHÃO DE POLÍCIA AMBIENTAL",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Travessa Augusto Schwambach, 29, Centro, Domingos Martins"
     },
     {
@@ -1452,7 +1452,7 @@
         "LAT": "-20,3625993101529",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE DOMINGOS MARTINS",
-        "NOME_MUNIC": "Domingos Martins",
+        "MUNICIPIO": "Domingos Martins",
         "LOGRADOURO": "Avenida Senador Jeferson de Aguiar, 140, Campinho, Domingos Martins"
     },
     {
@@ -1460,7 +1460,7 @@
         "LAT": "-20,6366992357982",
         "AGENCIA": "Polícia Militar",
         "NOME": "3º PELOTAO DA 10ª CIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Alfredo Chaves",
+        "MUNICIPIO": "Alfredo Chaves",
         "LOGRADOURO": "Avenida Getulio Vargas, 416, Ouro Branco, Alfredo Chaves"
     },
     {
@@ -1468,7 +1468,7 @@
         "LAT": "-20,6349045149151",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ALFREDO CHAVES",
-        "NOME_MUNIC": "Alfredo Chaves",
+        "MUNICIPIO": "Alfredo Chaves",
         "LOGRADOURO": "Rua Cais Costa Pinto, 26, Centro, Alfredo Chaves"
     },
     {
@@ -1476,7 +1476,7 @@
         "LAT": "-20,4071946976647",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "4º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Marechal Floriano",
+        "MUNICIPIO": "Marechal Floriano",
         "LOGRADOURO": "Rua Armando Walsh, Vale das Palmas, Marechal Floriano"
     },
     {
@@ -1484,7 +1484,7 @@
         "LAT": "-20,4104976495736",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 6ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Marechal Floriano",
+        "MUNICIPIO": "Marechal Floriano",
         "LOGRADOURO": "Avenida David Canal, Centro, Marechal Floriano"
     },
     {
@@ -1492,7 +1492,7 @@
         "LAT": "-20,4942988509731",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ARAGUAIA",
-        "NOME_MUNIC": "Marechal Floriano",
+        "MUNICIPIO": "Marechal Floriano",
         "LOGRADOURO": "Avenida dos Imigrantes, Araguaia, Marechal Floriano"
     },
     {
@@ -1500,7 +1500,7 @@
         "LAT": "-20,4066040907673",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MARECHAL FLORIANO",
-        "NOME_MUNIC": "Marechal Floriano",
+        "MUNICIPIO": "Marechal Floriano",
         "LOGRADOURO": "Avenida Arthur Hasse, Alto Marechal, Marechal Floriano"
     },
     {
@@ -1508,7 +1508,7 @@
         "LAT": "-20,7744983641985",
         "AGENCIA": "Polícia Militar",
         "NOME": "3º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Alegre",
+        "MUNICIPIO": "Alegre",
         "LOGRADOURO": "Rua Vivaldo Rosa Vieira, 23, São Manoel, Alegre"
     },
     {
@@ -1516,7 +1516,7 @@
         "LAT": "-20,7593980217561",
         "AGENCIA": "Polícia Civil",
         "NOME": "6ª DELEGACIA REGIONAL -  ALEGRE",
-        "NOME_MUNIC": "Alegre",
+        "MUNICIPIO": "Alegre",
         "LOGRADOURO": "Praça Henrique Wanderley, 559, Centro, Alegre"
     },
     {
@@ -1524,7 +1524,7 @@
         "LAT": "-20,3445945300276",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE IRUPI",
-        "NOME_MUNIC": "Irupi",
+        "MUNICIPIO": "Irupi",
         "LOGRADOURO": "Rua Domingos Martins, Centro, Irupi"
     },
     {
@@ -1532,7 +1532,7 @@
         "LAT": "-20,3527013481247",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE IRUPI",
-        "NOME_MUNIC": "Irupi",
+        "MUNICIPIO": "Irupi",
         "LOGRADOURO": "Avenida Jalmas Gomes de Freitas, 468, Centro, Irupi"
     },
     {
@@ -1540,7 +1540,7 @@
         "LAT": "-18,9043020954109",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JAGUARÉ",
-        "NOME_MUNIC": "Jaguaré",
+        "MUNICIPIO": "Jaguaré",
         "LOGRADOURO": "Rua Uirapuru, Centro, Jaguaré"
     },
     {
@@ -1548,7 +1548,7 @@
         "LAT": "-18,932195262806",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ÁGUA LIMPA",
-        "NOME_MUNIC": "Jaguaré",
+        "MUNICIPIO": "Jaguaré",
         "LOGRADOURO": "Rodovia José Dalvit, 146, Água Limpa, Jaguaré"
     },
     {
@@ -1556,7 +1556,7 @@
         "LAT": "-18,9076949525716",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE JAGUARE",
-        "NOME_MUNIC": "Jaguaré",
+        "MUNICIPIO": "Jaguaré",
         "LOGRADOURO": "Rua Ciro Rodrigues, 229, Centro, Jaguaré"
     },
     {
@@ -1564,7 +1564,7 @@
         "LAT": "-18,7261030992873",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "1ª COMPANHIA INDEPENDENTE",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rodovia Otovarino Duarte Santos, Aviação, São Mateus"
     },
     {
@@ -1572,7 +1572,7 @@
         "LAT": "-18,719802822818",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BOM SUCESSO",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Avenida Dom José Dalvid, Bom Sucesso, São Mateus"
     },
     {
@@ -1580,7 +1580,7 @@
         "LAT": "-18,7209981956921",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO BATALHÃO DE POLÍCIA AMBIENTAL",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Avenida João XXIII, 1544, Boa Vista, São Mateus"
     },
     {
@@ -1588,7 +1588,7 @@
         "LAT": "-18,7378982221192",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - GURIRI",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rodovia Othovarino Duarte Santos, Guriri, São Mateus"
     },
     {
@@ -1596,7 +1596,7 @@
         "LAT": "-18,7292953062233",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - NESTOR GOMES",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rodovia 381, Km 41, Miguel Cury Carneiro, Nestor Gomes, São Mateus"
     },
     {
@@ -1604,7 +1604,7 @@
         "LAT": "-18,7150057099423",
         "AGENCIA": "Polícia Militar",
         "NOME": "13º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Avenida João XXIII, 1544, Boa Vista, São Mateus"
     },
     {
@@ -1612,7 +1612,7 @@
         "LAT": "-18,5821011088121",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA MARIA",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rua Principal, Santa Maria, São Mateus"
     },
     {
@@ -1620,7 +1620,7 @@
         "LAT": "-18,714904680041",
         "AGENCIA": "Polícia Civil",
         "NOME": "18ª DELEGACIA REGIONAL - SÃO MATEUS",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rua Doutor Arlindo Sodré, 162, Centro, São Mateus"
     },
     {
@@ -1628,7 +1628,7 @@
         "LAT": "-18,714904680041",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP VITÓRIA",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rua Doutor Arlindo Sodré, 162, Centro, São Mateus"
     },
     {
@@ -1636,7 +1636,7 @@
         "LAT": "-18,7170993846463",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Sao Mateus",
+        "MUNICIPIO": "Sao Mateus",
         "LOGRADOURO": "Rua Eurico Salles, 1221, Boa Vista, São Mateus"
     },
     {
@@ -1644,7 +1644,7 @@
         "LAT": "-19,0186965821604",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 2º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Sao Gabriel da Palha",
+        "MUNICIPIO": "Sao Gabriel da Palha",
         "LOGRADOURO": "Rua João Dias, 89, Centro, São Gabriel da Palha"
     },
     {
@@ -1652,7 +1652,7 @@
         "LAT": "-19,0199039638809",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE SAO GABRIEL DA PALHA",
-        "NOME_MUNIC": "Sao Gabriel da Palha",
+        "MUNICIPIO": "Sao Gabriel da Palha",
         "LOGRADOURO": "Rua Argeu Rezende, 110, Independência, São Gabriel da Palha"
     },
     {
@@ -1660,7 +1660,7 @@
         "LAT": "-19,2750943394042",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE RIO BANANAL",
-        "NOME_MUNIC": "Rio Bananal",
+        "MUNICIPIO": "Rio Bananal",
         "LOGRADOURO": "Rua Luis Endringer, 03, São Sebastião, Rio Bananal"
     },
     {
@@ -1668,7 +1668,7 @@
         "LAT": "-19,2690967232757",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE RIO BANANAL",
-        "NOME_MUNIC": "Rio Bananal",
+        "MUNICIPIO": "Rio Bananal",
         "LOGRADOURO": "Avenida 14 de setembro, 1056, Centro, Rio Bananal"
     },
     {
@@ -1676,7 +1676,7 @@
         "LAT": "-19,7563044456769",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JOÃO NEIVA 5 BPM",
-        "NOME_MUNIC": "Joao Neiva",
+        "MUNICIPIO": "Joao Neiva",
         "LOGRADOURO": "Rua Negro Orestes, Centro, João Neiva"
     },
     {
@@ -1684,7 +1684,7 @@
         "LAT": "-19,7555984870433",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE JOAO NEIVA",
-        "NOME_MUNIC": "Joao Neiva",
+        "MUNICIPIO": "Joao Neiva",
         "LOGRADOURO": "Rua Orestes Negri, Centro, João Neiva"
     },
     {
@@ -1692,7 +1692,7 @@
         "LAT": "-18,9815029345431",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 11º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Águia Branca",
+        "MUNICIPIO": "Águia Branca",
         "LOGRADOURO": "Praça dos Três Poderes, Cristo Rei, Águia Branca"
     },
     {
@@ -1700,7 +1700,7 @@
         "LAT": "-18,9829062223399",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ÁGUIA BRANCA",
-        "NOME_MUNIC": "Águia Branca",
+        "MUNICIPIO": "Águia Branca",
         "LOGRADOURO": "Rua Dr. Valery Koszarowski, 10, Praça dos Três Poderes, Águia Branca"
     },
     {
@@ -1708,7 +1708,7 @@
         "LAT": "-20,2863066136366",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JOANA D ARC",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rodovia Serafim Derenzi, Joana D' Arc, Vitória"
     },
     {
@@ -1716,7 +1716,7 @@
         "LAT": "-19,1453981716132",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO DOMINGOS DO NORTE",
-        "NOME_MUNIC": "Sao Domingos do Norte",
+        "MUNICIPIO": "Sao Domingos do Norte",
         "LOGRADOURO": "Rua São Salvador, 70, Centro, São Domingos do Norte"
     },
     {
@@ -1724,7 +1724,7 @@
         "LAT": "-19,1442047147681",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE SÃO DOMINGO DO NORTE",
-        "NOME_MUNIC": "Sao Domingos do Norte",
+        "MUNICIPIO": "Sao Domingos do Norte",
         "LOGRADOURO": "Rua Valeriano Pagani, Centro, São Domingos do Norte"
     },
     {
@@ -1732,7 +1732,7 @@
         "LAT": "-19,3993061651812",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Avenida Jones dos Santos Neves, Centro, Linhares"
     },
     {
@@ -1740,7 +1740,7 @@
         "LAT": "-19,1903988886274",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PONTAL DO IPIRANGA",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Avenida do Sol, Pontal do Ipiranga, Linhares"
     },
     {
@@ -1748,7 +1748,7 @@
         "LAT": "-19,4074037695198",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 12º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Praça Regis Bitencourt, Centro, Linhares"
     },
     {
@@ -1756,7 +1756,7 @@
         "LAT": "-19,3760970106317",
         "AGENCIA": "Polícia Militar",
         "NOME": "12º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Washington Luiz, 599, José Rodrigues Maciel, Linhares"
     },
     {
@@ -1764,7 +1764,7 @@
         "LAT": "-19,3235990632752",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 12º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Avenida dos Moveleiros, Canivete, Linhares"
     },
     {
@@ -1772,7 +1772,7 @@
         "LAT": "-19,3857003390318",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 12º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Avenida Presidente Emílio Garrastazu Médici, BNH, Linhares"
     },
     {
@@ -1780,7 +1780,7 @@
         "LAT": "-19,3594006409824",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE LINHARES V",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Maria Giuriatto Frisso, Linhares V, Linhares"
     },
     {
@@ -1788,7 +1788,7 @@
         "LAT": "-19,3973049553545",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ARAÇÁ",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Praça de Araça, Rua Augusto de Carvalho, Araça, Linhares"
     },
     {
@@ -1796,7 +1796,7 @@
         "LAT": "-19,3916982519773",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE INTERLAGOS I",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Praça de Interlagos I, Avenida Vasco Fernandes Coutinho, Interlagos I, Linhares"
     },
     {
@@ -1804,7 +1804,7 @@
         "LAT": "-19,3951012298403",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE INTERLAGOS II",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Praça de Interlagos II, Avenida Martin Afonso de Souza, Interlagos II, Linhares"
     },
     {
@@ -1812,7 +1812,7 @@
         "LAT": "-19,4720041192059",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BEBEDOURO",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Benevenutto Zozanelli,, Bebedouro, Linhares"
     },
     {
@@ -1820,7 +1820,7 @@
         "LAT": "-19,3860994023933",
         "AGENCIA": "Polícia Militar",
         "NOME": "POSTO DE TRÂNSITO",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Avenida Guerino Giubert, Praça de Nossa Senhora de Conceição, Nossa Senhora da Conceição, Linhares"
     },
     {
@@ -1828,7 +1828,7 @@
         "LAT": "-19,5778048575611",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE POVOAÇÃO",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Ricardo Ferreira Leite, Povoação, Linhares"
     },
     {
@@ -1836,7 +1836,7 @@
         "LAT": "-19,3703992167616",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO RAFAEL",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Projetada, São Rafael, Linhares"
     },
     {
@@ -1844,7 +1844,7 @@
         "LAT": "-19,4019987782904",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMANDO DE POLÍCIA OSTENSIVA NORTE - CPON",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Avenida Augusto Calmon, 920, Centro, Linhares"
     },
     {
@@ -1852,7 +1852,7 @@
         "LAT": "-19,3734052603566",
         "AGENCIA": "Polícia Civil",
         "NOME": "16ª DELEGACIA REGIONAL - LINHARES",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Elio José de Almeida, 17, Quadra C3, Três Barras, Linhares"
     },
     {
@@ -1860,7 +1860,7 @@
         "LAT": "-19,3734040860436",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA REGIONAL NORTE - SPRN",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Elio José de Almeida, 17, Quadra C3, Três Barras, Linhares"
     },
     {
@@ -1868,7 +1868,7 @@
         "LAT": "-19,3734046732276",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP LINHARES",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua Elio José de Almeida, 17, Quadra C3, Três Barras, Linhares"
     },
     {
@@ -1876,7 +1876,7 @@
         "LAT": "-19,3732950643654",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Linhares",
+        "MUNICIPIO": "Linhares",
         "LOGRADOURO": "Rua José Candido Durão, Três Barras, Linhares"
     },
     {
@@ -1884,7 +1884,7 @@
         "LAT": "-20,3127022490178",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "1º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Tenente Mário Francisco de Brito, 100, Enseada do Suá, Vitória"
     },
     {
@@ -1892,7 +1892,7 @@
         "LAT": "-20,2933015470525",
         "AGENCIA": "Polícia Militar",
         "NOME": "QUARTEL DO COMANDO GERAL DA POLICIA MILITAR - QCG",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Maruípe, 2111, São Cristóvão,  Vitória"
     },
     {
@@ -1900,7 +1900,7 @@
         "LAT": "-20,2930041032725",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMPANHIA ESPECIALIZADA DE OPERAÇÕES COM CÃES",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rodovia Serafim Derenzi, Santa Martha, Vitória"
     },
     {
@@ -1908,7 +1908,7 @@
         "LAT": "-20,3056019636058",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Fortunato Ramos,117, Santa Lúcia, Vitória"
     },
     {
@@ -1916,7 +1916,7 @@
         "LAT": "-20,3123995122172",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Dário Lourenço de Souza, 1291, Mario Cypreste, Vitória"
     },
     {
@@ -1924,7 +1924,7 @@
         "LAT": "-20,3226992700982",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM  DA ILHA DO PRÍNCIPE",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Querubino Costa, Ilha do Príncipe, Vitória"
     },
     {
@@ -1932,7 +1932,7 @@
         "LAT": "-20,2999034092606",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DO BAIRRO DA PENHA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Professor Hermínio Blackman,1086, Bairro da Penha, Vitória"
     },
     {
@@ -1940,7 +1940,7 @@
         "LAT": "-20,3134991760999",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Hermes Curry Carneiro, Ilha de Santa Maria, Vitória"
     },
     {
@@ -1948,7 +1948,7 @@
         "LAT": "-20,2604994909991",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MARIA ORTIZ",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Professor Fernando Duarte Rabelo, 577, Maria Ortiz, Vitória"
     },
     {
@@ -1956,7 +1956,7 @@
         "LAT": "-20,2553039146888",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO BATALHÃO DE POLÍCIA DE TRÂNSITO - POSTO 04",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Belmiro Teixeira Pimenta, 350A, Jardim Camburi, Vitória"
     },
     {
@@ -1964,7 +1964,7 @@
         "LAT": "-20,317294366586",
         "AGENCIA": "Polícia Militar",
         "NOME": "BATALHAO DE POLICIA DE TRÂNSITO - BPTRAN",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Bernadino Monteiro, 77, Parque Moscoso, Vitória"
     },
     {
@@ -1972,7 +1972,7 @@
         "LAT": "-20,3119993666537",
         "AGENCIA": "Polícia Militar",
         "NOME": "POSTO DE TRÂNSITO 03",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Tenente Mario Francisco Brito, Enseada do Sua"
     },
     {
@@ -1980,7 +1980,7 @@
         "LAT": "-20,2930033581485",
         "AGENCIA": "Polícia Militar",
         "NOME": "1º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rodovia Serafim Derenzi, 11240, São Cristóvão, Vitória"
     },
     {
@@ -1988,7 +1988,7 @@
         "LAT": "-20,3201994683033",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DA VILA RUBIM",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Jaír Andrade, 43, Vila Rubim, Vitória"
     },
     {
@@ -1996,7 +1996,7 @@
         "LAT": "-20,2822002175939",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JARDIM DA PENHA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Praça Regina Frigeri Furno, Jardim da Penha, Vitória"
     },
     {
@@ -2004,7 +2004,7 @@
         "LAT": "-20,2830001766712",
         "AGENCIA": "Polícia Militar",
         "NOME": "5ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rodovia Serafim Derenzi, 4222, Santos Reis, Vitória"
     },
     {
@@ -2012,7 +2012,7 @@
         "LAT": "-20,2962017754115",
         "AGENCIA": "Polícia Militar",
         "NOME": "6ª COMPANHIA DO 1º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua São José Operário, Praça Daniel Acioly, Maruípe, Vitória"
     },
     {
@@ -2020,7 +2020,7 @@
         "LAT": "-20,2706939530211",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BAIRRO REPUBLICA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Presidente Costa e Silva, Bairro República, Vitória"
     },
     {
@@ -2028,7 +2028,7 @@
         "LAT": "-20,3061018026179",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE FRADINHOS",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua José Malta, 331, Fradinhos, Vitória"
     },
     {
@@ -2036,7 +2036,7 @@
         "LAT": "-20,3124050551004",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - ROMÃO",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Ormando de Aguiar, Romão, Vitória"
     },
     {
@@ -2044,7 +2044,7 @@
         "LAT": "-20,250498112768",
         "AGENCIA": "Polícia Militar",
         "NOME": "12ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Theófilo Costa, 110, Jardim Camburi, Vitória"
     },
     {
@@ -2052,7 +2052,7 @@
         "LAT": "-20,3169017367233",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMPANHIA ESPECIALIZADA DE POLÍCIA DE GUARDA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Sete de setembro, 362, Palácio da Fonte Grande, Centro, Vitória"
     },
     {
@@ -2060,7 +2060,7 @@
         "LAT": "-20,3031038900155",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SÃO BENEDITO",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Tenente Setubal, 450, São Benedito, Vitória"
     },
     {
@@ -2068,7 +2068,7 @@
         "LAT": "-20,2903951371127",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - GRANDE VITÓRIA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Onze de Janeiro, 90, Grande Vitória, Vitória"
     },
     {
@@ -2076,7 +2076,7 @@
         "LAT": "-20,3084012080851",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - TORRE DA FONTE GRANDE",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Morro da Fonte Grande, Vitória"
     },
     {
@@ -2084,7 +2084,7 @@
         "LAT": "-20,3106991625698",
         "AGENCIA": "Polícia Civil",
         "NOME": "ACADEMIA DE POLÍCIA CIVIL - ACADEPOL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Vitória, 2382, Ilha Monte Belo, Vitória"
     },
     {
@@ -2092,7 +2092,7 @@
         "LAT": "-20,3208970064615",
         "AGENCIA": "Polícia Civil",
         "NOME": "CORREGEDORIA GERAL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Alberto Oliveira Santos, 42, Centro, Vitória"
     },
     {
@@ -2100,7 +2100,7 @@
         "LAT": "-20,2690037293466",
         "AGENCIA": "Polícia Civil",
         "NOME": "4º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Leopoldo Gomes Salles, 76, Goiabeiras, Vitória"
     },
     {
@@ -2108,7 +2108,7 @@
         "LAT": "-20,2976064792213",
         "AGENCIA": "Polícia Civil",
         "NOME": "3° DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Celso Calmon, 173, Praia do Canto, Vitória"
     },
     {
@@ -2116,7 +2116,7 @@
         "LAT": "-20,2553031954128",
         "AGENCIA": "Polícia Civil",
         "NOME": "5º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Belmiro Teixeira Pimenta, Jardim Camburi, Vitória"
     },
     {
@@ -2124,7 +2124,7 @@
         "LAT": "-20,3208986651839",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEL. ESP. DE CRIMES CONTRA  A  ADMINISTRACAO PUBLICA - DECOR",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2132,7 +2132,7 @@
         "LAT": "-20,3132949819",
         "AGENCIA": "Polícia Civil",
         "NOME": "1º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Santo Antônio, 1370, Santo Antônio, Vitória"
     },
     {
@@ -2140,7 +2140,7 @@
         "LAT": "-20,3194027959895",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE DEFESA DO CONSUMIDOR - DECON",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Princesa Isabel, 599, Centro, Vitória"
     },
     {
@@ -2148,7 +2148,7 @@
         "LAT": "-20,2912004231686",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESP. DE PROTEÇÃO À CRIANÇA E ADOLESCENTE - DPCA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2270, Santa Luzia, Vitória"
     },
     {
@@ -2156,7 +2156,7 @@
         "LAT": "-20,3115996638558",
         "AGENCIA": "Polícia Civil",
         "NOME": "DIVISÃO ESP. DE CRIMES DE FURTOS E ROUBOS DE VEÍCULOS - DFRV",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Maria de Lourdes Garcia, 50, Ilha de Santa Maria, Vitória"
     },
     {
@@ -2164,7 +2164,7 @@
         "LAT": "-20,2926041321868",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEL. ESP. DE HOMICÍDIO E PROTEÇÃO À MULHER - DHPM",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Doutor João Carlos de Souza, 89, Barro Vermelho, Vitória"
     },
     {
@@ -2172,7 +2172,7 @@
         "LAT": "-20,3089990465465",
         "AGENCIA": "Polícia Civil",
         "NOME": "1ª DELEGACIA REGIONAL - VITÓRIA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Construtor Camilo Gianordoli, 553, Horto, Vitória"
     },
     {
@@ -2180,7 +2180,7 @@
         "LAT": "-20,2910038887595",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POL. INTERESTADUAL E CAPTURAS - SPIC",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2188,7 +2188,7 @@
         "LAT": "-20,3008967160202",
         "AGENCIA": "Polícia Civil",
         "NOME": "DIVISÃO DE REPRESSÃO AOS CRIMES CONTRA O PATRIMÔNIO - DRCCP",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Marechal Campos, 1236, Bonfim, Vitória"
     },
     {
@@ -2196,7 +2196,7 @@
         "LAT": "-20,2774955394387",
         "AGENCIA": "Polícia Civil",
         "NOME": "DIVISÃO ESPECIALIZADA DE DELITOS DE TRÂNSITO  - DIV-DDT",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Fernando Ferrari, Mata da Praia, Vitória"
     },
     {
@@ -2204,7 +2204,7 @@
         "LAT": "-20,2553039146888",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE COSTUMES E DIVERSÕES",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Belmiro Teixiera Pimenta, Jardim Camburi, Vitória"
     },
     {
@@ -2212,7 +2212,7 @@
         "LAT": "-20,2918990637595",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEPARTAMENTO MÉDICO LEGAL -VITÓRIA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua José Faria, Santa Luiza, Vitória"
     },
     {
@@ -2220,7 +2220,7 @@
         "LAT": "-20,2914006675856",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2270, Santa Luiza, Vitória"
     },
     {
@@ -2228,7 +2228,7 @@
         "LAT": "-20,2915000491957",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE ADMINISTRAÇÃO E FINANÇAS - SAF",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2236,7 +2236,7 @@
         "LAT": "-20,2917974463092",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE APOIO LOGÍSTICO E ENGENHARIA - SALE",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2244,7 +2244,7 @@
         "LAT": "-20,2916995529415",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA ESPECIALIZADA - SPE",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2252,7 +2252,7 @@
         "LAT": "-20,2912011637937",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA REGIONAL METROPOLITANA - SPRM",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2260,7 +2260,7 @@
         "LAT": "-20,2913991792567",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE POLÍCIA TÉCNICO CIENTÍFICA - SPTC",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2268,7 +2268,7 @@
         "LAT": "-20,2915986902226",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DE INTELIGÊNCIA E AÇÕES ESTRATÉGICAS - SIAE",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2276,7 +2276,7 @@
         "LAT": "-20,2919058619552",
         "AGENCIA": "Polícia Civil",
         "NOME": "SUPERINTENDÊNCIA DA TEC. DA INFORMAÇÃO E COMUNICAÇÃO - SUTIC",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2284,7 +2284,7 @@
         "LAT": "-20,2927020228538",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEL. ESP. DE HOMICÍDIOS - PESSOAS DESAPARECIDAS",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Doutor João Carlos de Souza, 89, Barro Vermelho, Vitória"
     },
     {
@@ -2292,7 +2292,7 @@
         "LAT": "-20,2926937343572",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP VITÓRIA",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Doutor João Carlos de Souza, 89, Barro Vermelho, Vitória"
     },
     {
@@ -2300,7 +2300,7 @@
         "LAT": "-20,3194002152726",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ADOLESCENTE EM CONFLITO COM A LEI",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Engenheiro Manoel dos Passos, 48, Mario Cypreste, Vitória"
     },
     {
@@ -2308,7 +2308,7 @@
         "LAT": "-20,2919066096692",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE PROTEÇÃO AO IDOSO - DEPI",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Avenida Nossa Senhora da Penha, 2290, Santa Luiza, Vitória"
     },
     {
@@ -2316,7 +2316,7 @@
         "LAT": "-20,3089982939785",
         "AGENCIA": "Polícia Civil",
         "NOME": "2º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Vitória",
+        "MUNICIPIO": "Vitória",
         "LOGRADOURO": "Rua Construtor Camilo Gianordoli, 553, Horto, Vitória"
     },
     {
@@ -2324,7 +2324,7 @@
         "LAT": "-20,6485045586634",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "5º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rodovia ES-060, Aeroporto, Guarapari"
     },
     {
@@ -2332,7 +2332,7 @@
         "LAT": "-20,6463016692653",
         "AGENCIA": "Polícia Militar",
         "NOME": "10º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rodovia ES-060, Km 56, Aeroporto, Guarapari"
     },
     {
@@ -2340,7 +2340,7 @@
         "LAT": "-20,674997867509",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 10º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Avenida Joaquim da Silva Lima, Centro, Guarapari"
     },
     {
@@ -2348,7 +2348,7 @@
         "LAT": "-20,5488030884837",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILLAGE DO SOL",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rodovia ES-060, Village do Sol, Guarapari"
     },
     {
@@ -2356,7 +2356,7 @@
         "LAT": "-20,6237018126985",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 10º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rodovia ES-060, Perocão, Guarapari"
     },
     {
@@ -2364,7 +2364,7 @@
         "LAT": "-20,6527991229016",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 10º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Avenida Beira Mar, Praia do Morro, Guarapari"
     },
     {
@@ -2372,7 +2372,7 @@
         "LAT": "-20,6463021523836",
         "AGENCIA": "Polícia Civil",
         "NOME": "5ª DELEGACIA REGIONAL - GUARAPARI",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rua Josias Ceruti, 683, Praia do Morro, Guarapari"
     },
     {
@@ -2380,7 +2380,7 @@
         "LAT": "-20,646400663772",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP GUARAPARI",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rua Josias Ceruti, 683, Praia do Morro, Guarapari"
     },
     {
@@ -2388,7 +2388,7 @@
         "LAT": "-20,6626997870772",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rua Santo Antônio, Muquiçaba, Guarapari"
     },
     {
@@ -2396,7 +2396,7 @@
         "LAT": "-20,646400663772",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEL. ESP. DE PROTEÇÃO À CRIANÇA, ADOLESCENTE E IDOSO",
-        "NOME_MUNIC": "Guarapari",
+        "MUNICIPIO": "Guarapari",
         "LOGRADOURO": "Rua Josias Ceruti, 683, Praia do Morro, Guarapari"
     },
     {
@@ -2404,7 +2404,7 @@
         "LAT": "-20,8205959820187",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA DO 5º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Anchieta",
+        "MUNICIPIO": "Anchieta",
         "LOGRADOURO": "Rodovia ES-060, Praia de Guanabara, Anchieta"
     },
     {
@@ -2412,7 +2412,7 @@
         "LAT": "-20,8101011968924",
         "AGENCIA": "Polícia Militar",
         "NOME": "1º PELOTÃO DA 10ª COMPANHIA INDEPENDENTE DA POLÍCIA MILITAR",
-        "NOME_MUNIC": "Anchieta",
+        "MUNICIPIO": "Anchieta",
         "LOGRADOURO": "Rua Vitória, Vila Residencial Anchieta, Anchieta"
     },
     {
@@ -2420,7 +2420,7 @@
         "LAT": "-20,6852966423756",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JABAQUARA",
-        "NOME_MUNIC": "Anchieta",
+        "MUNICIPIO": "Anchieta",
         "LOGRADOURO": "Rua João Maleiro, Jabaquara, Anchieta"
     },
     {
@@ -2428,7 +2428,7 @@
         "LAT": "-20,7672015581298",
         "AGENCIA": "Polícia Militar",
         "NOME": "10ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Anchieta",
+        "MUNICIPIO": "Anchieta",
         "LOGRADOURO": "Rua Vitória, 36, Vila Samarco, Anchieta"
     },
     {
@@ -2436,7 +2436,7 @@
         "LAT": "-20,8322008087445",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE IRIRI",
-        "NOME_MUNIC": "Anchieta",
+        "MUNICIPIO": "Anchieta",
         "LOGRADOURO": "Avenida Dom Helvécio, Iriri, Anchieta"
     },
     {
@@ -2444,7 +2444,7 @@
         "LAT": "-20,8050348444881",
         "AGENCIA": "Polícia Civil",
         "NOME": "10ª DELEGACIA REGIONAL - ANCHIETA",
-        "NOME_MUNIC": "Anchieta",
+        "MUNICIPIO": "Anchieta",
         "LOGRADOURO": "Rua Coronel Vitorino, Centro, Anchieta"
     },
     {
@@ -2452,7 +2452,7 @@
         "LAT": "-20,954895030124",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MUQUI",
-        "NOME_MUNIC": "Muqui",
+        "MUNICIPIO": "Muqui",
         "LOGRADOURO": "Rua Francisco  Fortunato, Entre Morros, Muqui"
     },
     {
@@ -2460,7 +2460,7 @@
         "LAT": "-20,9498979006691",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MUQUI",
-        "NOME_MUNIC": "Muqui",
+        "MUNICIPIO": "Muqui",
         "LOGRADOURO": "Avenida Jerônimo Monteiro, 56, Centro, Muqui"
     },
     {
@@ -2468,7 +2468,7 @@
         "LAT": "-20,6212944250371",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE DIVINO DE SAO LOURENCO",
-        "NOME_MUNIC": "Divino de Sao Lourenço",
+        "MUNICIPIO": "Divino de Sao Lourenço",
         "LOGRADOURO": "Rua José Vicente Tavares, Centro, Divino São Lourenço"
     },
     {
@@ -2476,7 +2476,7 @@
         "LAT": "-20,6212056846681",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE DIVINO DE SAO LOURENCO",
-        "NOME_MUNIC": "Divino de Sao Lourenço",
+        "MUNICIPIO": "Divino de Sao Lourenço",
         "LOGRADOURO": "Rua São Genuíno Lopes, Centro, Divino de São Lourenço"
     },
     {
@@ -2484,7 +2484,7 @@
         "LAT": "-20,1920936847571",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA DO 6º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua 1B, Quadra 03, CIVIT II, Serra"
     },
     {
@@ -2492,7 +2492,7 @@
         "LAT": "-20,2334019085344",
         "AGENCIA": "Polícia Militar",
         "NOME": "REGIMENTO DE POLICIA MONTADA - RPMONT",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Boa Vista, Boa Vista II, Serra"
     },
     {
@@ -2500,7 +2500,7 @@
         "LAT": "-20,1955002899194",
         "AGENCIA": "Polícia Militar",
         "NOME": "1ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Peroba do Campo, José de Anchieta, Serra"
     },
     {
@@ -2508,7 +2508,7 @@
         "LAT": "-20,1258021240833",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 14ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Todos os Santos, Bairro das Laranjeiras, Serra"
     },
     {
@@ -2516,7 +2516,7 @@
         "LAT": "-20,1887045033968",
         "AGENCIA": "Polícia Militar",
         "NOME": "POSTO DE TRÂNSITO 10",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rodovia ES-010, Ourimar, Serra"
     },
     {
@@ -2524,7 +2524,7 @@
         "LAT": "-20,0560034335489",
         "AGENCIA": "Polícia Militar",
         "NOME": "3º PELOTÃO DA 14ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Doutor Milton David, Reis Magos, Serra"
     },
     {
@@ -2532,7 +2532,7 @@
         "LAT": "-20,1735961755527",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Região Nordeste, Barcelona, Serra"
     },
     {
@@ -2540,7 +2540,7 @@
         "LAT": "-20,1178051470092",
         "AGENCIA": "Polícia Militar",
         "NOME": "4ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua , 191, Jardim da Serra, Serra"
     },
     {
@@ -2548,7 +2548,7 @@
         "LAT": "-20,2207011280862",
         "AGENCIA": "Polícia Militar",
         "NOME": "5ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida dos Índios, Setor América, Cidade Continental, Serra"
     },
     {
@@ -2556,7 +2556,7 @@
         "LAT": "-20,2318970410792",
         "AGENCIA": "Polícia Militar",
         "NOME": "6º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rodovia BR-101, Rodovia do Contorno, km 01, Jardim Carapina, Serra"
     },
     {
@@ -2564,7 +2564,7 @@
         "LAT": "-20,1750995987263",
         "AGENCIA": "Polícia Militar",
         "NOME": "14ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Vitória Régia, Feu Rosa, Serra"
     },
     {
@@ -2572,7 +2572,7 @@
         "LAT": "-20,1704963309197",
         "AGENCIA": "Polícia Militar",
         "NOME": "BATALHÃO DE POLÍCIA AMBIENTAL - BPMA",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Dourados, Barcelona, Serra"
     },
     {
@@ -2580,7 +2580,7 @@
         "LAT": "-20,1976000703802",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 6º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Coelho Neto, Parque Residencial Laranjeiras, Serra"
     },
     {
@@ -2588,7 +2588,7 @@
         "LAT": "-20,2412949542744",
         "AGENCIA": "Polícia Militar",
         "NOME": "COMANDO DE POLÍCIA OSTENSIVA ESPECIALIZADO - CPOE",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Rio Amazonas, 21, Helio Ferraz, Serra"
     },
     {
@@ -2596,7 +2596,7 @@
         "LAT": "-20,1550003326894",
         "AGENCIA": "Polícia Civil",
         "NOME": "12º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Abdo Saade, 24, Parque Jacaraípe, Serra"
     },
     {
@@ -2604,7 +2604,7 @@
         "LAT": "-20,2155042030245",
         "AGENCIA": "Polícia Civil",
         "NOME": "DEPARTAMENTO ESPECIALIZADO DE NARCÓTICOS - DENARC",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Brasil, 1322, Novo Horizonte, Serra"
     },
     {
@@ -2612,7 +2612,7 @@
         "LAT": "-20,194901511076",
         "AGENCIA": "Polícia Civil",
         "NOME": "3ª DELEGACIA REGIONAL - SERRA",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Eldes Scherrer de Souza, Parque Residencial Laranjeiras, Serra"
     },
     {
@@ -2620,7 +2620,7 @@
         "LAT": "-20,2303933085501",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE HOMICÍDIOS E PROTEÇÃO À PESSOA - DHPP SERRA",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Odisseia Neves Gabrielli, 322, Rosário de Fátima, Serra"
     },
     {
@@ -2628,7 +2628,7 @@
         "LAT": "-20,2376998020947",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ATENDIMENTO À MULHER - DEAM",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Sebastião Rodrigues Miranda, 49, Boa Vista II, Serra"
     },
     {
@@ -2636,7 +2636,7 @@
         "LAT": "-20,2376990683164",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA ESPECIALIZADA DE ACIDENTES DE TRABALHO - DEAT",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Rua Sebastião Rodrigues Miranda, 49, Boa Vista II, Serra"
     },
     {
@@ -2644,7 +2644,7 @@
         "LAT": "-20,194693715095",
         "AGENCIA": "Polícia Civil",
         "NOME": "10º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Eldes Scherrer de Souza, Parque Residencial Laranjeiras, Serra"
     },
     {
@@ -2652,7 +2652,7 @@
         "LAT": "-20,1550003326894",
         "AGENCIA": "Polícia Civil",
         "NOME": "11º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Abdo Saade, 24, Parque Jacaraípe, Serra"
     },
     {
@@ -2660,7 +2660,7 @@
         "LAT": "-20,1948021268259",
         "AGENCIA": "Polícia Civil",
         "NOME": "13º DISTRITO POLICIAL",
-        "NOME_MUNIC": "Serra",
+        "MUNICIPIO": "Serra",
         "LOGRADOURO": "Avenida Eldes Scherrer de Souza, Parque Residencial Laranjeiras, Serra"
     },
     {
@@ -2668,7 +2668,7 @@
         "LAT": "-19,8708044935054",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 2ª CIA DO BATALHÃO DE POLÍCIA  AMBIENTAL",
-        "NOME_MUNIC": "Itarana",
+        "MUNICIPIO": "Itarana",
         "LOGRADOURO": "Rua Martinho Máximo Scardua, Centro, Itarana"
     },
     {
@@ -2676,7 +2676,7 @@
         "LAT": "-19,8748980836423",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ITARANA",
-        "NOME_MUNIC": "Itarana",
+        "MUNICIPIO": "Itarana",
         "LOGRADOURO": "Praça Ana Matos, Centro, Itarana"
     },
     {
@@ -2684,7 +2684,7 @@
         "LAT": "-19,8713985233445",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ITARANA",
-        "NOME_MUNIC": "Itarana",
+        "MUNICIPIO": "Itarana",
         "LOGRADOURO": "Rua Dom Luiz Scartegande, 325, Centro, Itarana"
     },
     {
@@ -2692,7 +2692,7 @@
         "LAT": "-19,8234064039662",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTO ANTONIO DO CANAÃ",
-        "NOME_MUNIC": "Santa Teresa",
+        "MUNICIPIO": "Santa Teresa",
         "LOGRADOURO": "Rua 14 de Julho, Santo Antonio do Canaã, Santa Teresa"
     },
     {
@@ -2700,7 +2700,7 @@
         "LAT": "-19,9309024983627",
         "AGENCIA": "Polícia Militar",
         "NOME": "8ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Santa Teresa",
+        "MUNICIPIO": "Santa Teresa",
         "LOGRADOURO": "Avenida Ricardo Pasoline, 82, Centro, Santa Teresa"
     },
     {
@@ -2708,7 +2708,7 @@
         "LAT": "-19,9398010153915",
         "AGENCIA": "Polícia Civil",
         "NOME": "12ª DELEGACIA REGIONAL - SANTA TERESA",
-        "NOME_MUNIC": "Santa Teresa",
+        "MUNICIPIO": "Santa Teresa",
         "LOGRADOURO": "Rua Coronel Bonfim Junior, 55, Centro, Santa Teresa"
     },
     {
@@ -2716,7 +2716,7 @@
         "LAT": "-20,1007939415696",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "POSTO AVANCADO DA 1ª CIA  DO 6º BBM",
-        "NOME_MUNIC": "Santa Leopoldina",
+        "MUNICIPIO": "Santa Leopoldina",
         "LOGRADOURO": "Rua Costa Pereira, Centro, Santa Leopoldina"
     },
     {
@@ -2724,7 +2724,7 @@
         "LAT": "-20,1005023648729",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA LEOPOLDINA",
-        "NOME_MUNIC": "Santa Leopoldina",
+        "MUNICIPIO": "Santa Leopoldina",
         "LOGRADOURO": "Avenida Presidente Vargas,1437, Centro, Santa Leopoldina"
     },
     {
@@ -2732,7 +2732,7 @@
         "LAT": "-20,1341968761265",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BARRA DO MANGARAI",
-        "NOME_MUNIC": "Santa Leopoldina",
+        "MUNICIPIO": "Santa Leopoldina",
         "LOGRADOURO": "Rodovia ES-080, Barra do Mangaraí, Santa Leopoldina"
     },
     {
@@ -2740,7 +2740,7 @@
         "LAT": "-20,1015020636711",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE SANTA LEOPOLDINA",
-        "NOME_MUNIC": "Santa Leopoldina",
+        "MUNICIPIO": "Santa Leopoldina",
         "LOGRADOURO": "Rua Porfírio Furtado, 47, Centro, Santa Leopoldina"
     },
     {
@@ -2748,7 +2748,7 @@
         "LAT": "-20,6755003247123",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 3ª COMPANHIA DO 9º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vargem Alta",
+        "MUNICIPIO": "Vargem Alta",
         "LOGRADOURO": "Rua Nestor Gomes, 200, Rodoviária, Centro, Vargem Alta"
     },
     {
@@ -2756,7 +2756,7 @@
         "LAT": "-20,5175015848584",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE CASTELINHO",
-        "NOME_MUNIC": "Vargem Alta",
+        "MUNICIPIO": "Vargem Alta",
         "LOGRADOURO": "Rodovia Gumercindo Moura Nunes, Castelinho, Vargem Alta"
     },
     {
@@ -2764,7 +2764,7 @@
         "LAT": "-20,66939863746",
         "AGENCIA": "Polícia Militar",
         "NOME": "3º PELOTÃO DA 3ª COMPANHIA DO 9º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Vargem Alta",
+        "MUNICIPIO": "Vargem Alta",
         "LOGRADOURO": "Avenida Beira Rio, Centro, Vargem Alta"
     },
     {
@@ -2772,7 +2772,7 @@
         "LAT": "-20,7029002112505",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE JACIGUÁ",
-        "NOME_MUNIC": "Vargem Alta",
+        "MUNICIPIO": "Vargem Alta",
         "LOGRADOURO": "Praça Padre Olivio, Jaciguá, Vargem Alta"
     },
     {
@@ -2780,7 +2780,7 @@
         "LAT": "-20,6734005918963",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE VARGEM ALTA",
-        "NOME_MUNIC": "Vargem Alta",
+        "MUNICIPIO": "Vargem Alta",
         "LOGRADOURO": "Rua Frederico Fontana, 48, Centro, Vargem Alta"
     },
     {
@@ -2788,7 +2788,7 @@
         "LAT": "-18,7574008676689",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "POSTO AVANCADO DA 2ª CIA DO 2º BBM",
-        "NOME_MUNIC": "Barra de Sao Francisco",
+        "MUNICIPIO": "Barra de Sao Francisco",
         "LOGRADOURO": "Avenida Castelo Branco, Vila Landinha, Barra de São Francisco"
     },
     {
@@ -2796,7 +2796,7 @@
         "LAT": "-18,7623008074541",
         "AGENCIA": "Polícia Militar",
         "NOME": "SERVIÇO DE ATENDIMENTO AO CIDADÃO - COLINA",
-        "NOME_MUNIC": "Barra de Sao Francisco",
+        "MUNICIPIO": "Barra de Sao Francisco",
         "LOGRADOURO": "Rua Duque de Caxias, s.n., Bairro Colina, B.S.Francisco"
     },
     {
@@ -2804,7 +2804,7 @@
         "LAT": "-18,7583983452798",
         "AGENCIA": "Polícia Militar",
         "NOME": "11º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Barra de Sao Francisco",
+        "MUNICIPIO": "Barra de Sao Francisco",
         "LOGRADOURO": "Rua Vereador Antônio Roas Huebra, 293, Centro, Barra de São Francisco"
     },
     {
@@ -2812,7 +2812,7 @@
         "LAT": "-18,7098953303152",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILA ITAPERUNA",
-        "NOME_MUNIC": "Barra de Sao Francisco",
+        "MUNICIPIO": "Barra de Sao Francisco",
         "LOGRADOURO": "Rua Principal, Vila Itaperuna, Barra de São Francisco"
     },
     {
@@ -2820,7 +2820,7 @@
         "LAT": "-18,6658999982508",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILA PAULISTA",
-        "NOME_MUNIC": "Barra de Sao Francisco",
+        "MUNICIPIO": "Barra de Sao Francisco",
         "LOGRADOURO": "Rua Principal, Distrito de Vila Paulista, Barra de São Francisco"
     },
     {
@@ -2828,7 +2828,7 @@
         "LAT": "-18,7690023332322",
         "AGENCIA": "Polícia Civil",
         "NOME": "14ª DELEGACIA REGIONAL - BARRA DE SAO FRANCISCO",
-        "NOME_MUNIC": "Barra de Sao Francisco",
+        "MUNICIPIO": "Barra de Sao Francisco",
         "LOGRADOURO": "Rua Henrique Fanti, Nova Barra, Barra de São Francisco"
     },
     {
@@ -2836,7 +2836,7 @@
         "LAT": "-18,8611983708186",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE MANTENÓPOLIS",
-        "NOME_MUNIC": "Mantenópolis",
+        "MUNICIPIO": "Mantenópolis",
         "LOGRADOURO": "Rua Floriano Rubim, Centro, Mantenópolis"
     },
     {
@@ -2844,7 +2844,7 @@
         "LAT": "-18,8627022112735",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MANTENOPOLIS",
-        "NOME_MUNIC": "Mantenópolis",
+        "MUNICIPIO": "Mantenópolis",
         "LOGRADOURO": "Rua Maria Teodoro,511, Centro, Mantenópolis"
     },
     {
@@ -2852,7 +2852,7 @@
         "LAT": "-19,8979041181241",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE LARANJA DA TERRA",
-        "NOME_MUNIC": "Laranja da Terra",
+        "MUNICIPIO": "Laranja da Terra",
         "LOGRADOURO": "Rua Ottor Maier, 104, Centro, Laranja da Terra"
     },
     {
@@ -2860,7 +2860,7 @@
         "LAT": "-19,9028049483323",
         "AGENCIA": "Polícia Civil",
         "NOME": "NÚCLEO POLICIAL DE LARANJA DA TERRA",
-        "NOME_MUNIC": "Laranja da Terra",
+        "MUNICIPIO": "Laranja da Terra",
         "LOGRADOURO": "Estrada São Luiz de Miranda, Terminal Rodoviário, Laranja da Terra"
     },
     {
@@ -2868,7 +2868,7 @@
         "LAT": "-20,0833003623364",
         "AGENCIA": "Polícia Militar",
         "NOME": "DESTACAMENTO DE POLÍCIA AMBIENTAL DE AFONSO CLÁUDIO",
-        "NOME_MUNIC": "Afonso Cláudio",
+        "MUNICIPIO": "Afonso Cláudio",
         "LOGRADOURO": "Rua Anália Vieira de Souza, 270, São Vicente, Afonso Cláudio"
     },
     {
@@ -2876,7 +2876,7 @@
         "LAT": "-20,0725019138168",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Afonso Cláudio",
+        "MUNICIPIO": "Afonso Cláudio",
         "LOGRADOURO": "Rua José Jorge Haddad, 88, Centro, Afonso Cláudio"
     },
     {
@@ -2884,7 +2884,7 @@
         "LAT": "-20,0733009451682",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE AFONSO CLAUDIO",
-        "NOME_MUNIC": "Afonso Cláudio",
+        "MUNICIPIO": "Afonso Cláudio",
         "LOGRADOURO": "Rua Maria Pádua Soares, Centro, Afonso Cláudio"
     },
     {
@@ -2892,7 +2892,7 @@
         "LAT": "-20,1471033764631",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BREJETUBA",
-        "NOME_MUNIC": "Brejetuba",
+        "MUNICIPIO": "Brejetuba",
         "LOGRADOURO": "Rua 3 de Maio, Centro, Brejetuba"
     },
     {
@@ -2900,7 +2900,7 @@
         "LAT": "-20,1489958359777",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE BREJETUBA",
-        "NOME_MUNIC": "Brejetuba",
+        "MUNICIPIO": "Brejetuba",
         "LOGRADOURO": "Rua José Olindo Badaró, 76, Centro, Brejetuba"
     },
     {
@@ -2908,7 +2908,7 @@
         "LAT": "-20,2378938282635",
         "AGENCIA": "Polícia Militar",
         "NOME": "14º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Ibatiba",
+        "MUNICIPIO": "Ibatiba",
         "LOGRADOURO": "Rodovia BR-262, km 158, Novo Horizonte, Ibatiba"
     },
     {
@@ -2916,7 +2916,7 @@
         "LAT": "-20,232093292419",
         "AGENCIA": "Polícia Civil",
         "NOME": "8ª DELEGACIA REGIONAL - IBATIBA",
-        "NOME_MUNIC": "Ibatiba",
+        "MUNICIPIO": "Ibatiba",
         "LOGRADOURO": "Avenida Servolo Rodrigues Trindade, 549, Boa Esperança, Ibatiba"
     },
     {
@@ -2924,7 +2924,7 @@
         "LAT": "-20,3452019255246",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE IÚNA",
-        "NOME_MUNIC": "Iúna",
+        "MUNICIPIO": "Iúna",
         "LOGRADOURO": "Avenida Getúlio Vargas, Vila Verde, Iúna"
     },
     {
@@ -2932,7 +2932,7 @@
         "LAT": "-20,2751058830774",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PEQUIA",
-        "NOME_MUNIC": "Iúna",
+        "MUNICIPIO": "Iúna",
         "LOGRADOURO": "Travessa Manoel J. de Ribeiro, Pequiá, Iúna"
     },
     {
@@ -2940,7 +2940,7 @@
         "LAT": "-20,3514062398904",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE IÚNA",
-        "NOME_MUNIC": "Iúna",
+        "MUNICIPIO": "Iúna",
         "LOGRADOURO": "Rua Espírito Santo, 161, Quilombo, Iúna"
     },
     {
@@ -2948,7 +2948,7 @@
         "LAT": "-20,5396057090412",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE IBITIRAMA",
-        "NOME_MUNIC": "Ibitirama",
+        "MUNICIPIO": "Ibitirama",
         "LOGRADOURO": "Avenida Otávio Shwartz, Centro, Ibitirama"
     },
     {
@@ -2956,7 +2956,7 @@
         "LAT": "-20,5110988103025",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SANTA MARTA",
-        "NOME_MUNIC": "Ibitirama",
+        "MUNICIPIO": "Ibitirama",
         "LOGRADOURO": "Rua José de Melo, Santa Marta, Ibitirama"
     },
     {
@@ -2964,7 +2964,7 @@
         "LAT": "-20,5408001739466",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE IBITIRAMA",
-        "NOME_MUNIC": "Ibitirama",
+        "MUNICIPIO": "Ibitirama",
         "LOGRADOURO": "Avenida Acidalia Vieira Knust,08, Centro, Ibitirama"
     },
     {
@@ -2972,7 +2972,7 @@
         "LAT": "-20,5542047368877",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE PEDRA MENINA",
-        "NOME_MUNIC": "Dores do Rio Preto",
+        "MUNICIPIO": "Dores do Rio Preto",
         "LOGRADOURO": "Rodovia ES-495, Pedra Menina, Dores do Rio Preto"
     },
     {
@@ -2980,7 +2980,7 @@
         "LAT": "-20,6905949147671",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE DORES DO RIO PRETO",
-        "NOME_MUNIC": "Dores do Rio Preto",
+        "MUNICIPIO": "Dores do Rio Preto",
         "LOGRADOURO": "Rua Pedro de Alcantara Galveia, Centro, Dores do Rio Preto"
     },
     {
@@ -2988,7 +2988,7 @@
         "LAT": "-20,693597017982",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE DORES DO RIO PRETO",
-        "NOME_MUNIC": "Dores do Rio Preto",
+        "MUNICIPIO": "Dores do Rio Preto",
         "LOGRADOURO": "Rua Pedro Alcantara Gouveia, Centro, Dores do Rio Preto"
     },
     {
@@ -2996,7 +2996,7 @@
         "LAT": "-20,7782009978335",
         "AGENCIA": "Bombeiro Militar",
         "NOME": "2ª COMPANHIA DO 3º BATALHÃO DE BOMBEIROS MILITARES",
-        "NOME_MUNIC": "Guaçuí",
+        "MUNICIPIO": "Guaçuí",
         "LOGRADOURO": "Rodovia Norival Couzi, Monteiro Torres, Guaçuí"
     },
     {
@@ -3004,7 +3004,7 @@
         "LAT": "-20,7680957597208",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 3º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Guaçuí",
+        "MUNICIPIO": "Guaçuí",
         "LOGRADOURO": "Rua Maranhão, Centro, Guaçuí"
     },
     {
@@ -3012,7 +3012,7 @@
         "LAT": "-20,7679033615302",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 4ª CIA DO BATALHÃO DE POLÍCIA AMBIENTAL",
-        "NOME_MUNIC": "Guaçuí",
+        "MUNICIPIO": "Guaçuí",
         "LOGRADOURO": "Rua Joaquim Martinho de Carvalho, 269, Centro, Guaçuí"
     },
     {
@@ -3020,7 +3020,7 @@
         "LAT": "-20,7755053338973",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE GUACUI",
-        "NOME_MUNIC": "Guaçuí",
+        "MUNICIPIO": "Guaçuí",
         "LOGRADOURO": "Avenida José Alexandre, 15, Centro, Guaçuí"
     },
     {
@@ -3028,7 +3028,7 @@
         "LAT": "-21,0304952689986",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE SAO JOSE DO CALCADO",
-        "NOME_MUNIC": "Sao José do Calçado",
+        "MUNICIPIO": "Sao José do Calçado",
         "LOGRADOURO": "Rua Maestro Elipio de Sá Viana, Divineia, São José do Calçadp"
     },
     {
@@ -3036,7 +3036,7 @@
         "LAT": "-21,0227061980972",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE SÂO JOSÉ DO CALCADO",
-        "NOME_MUNIC": "Sao José do Calçado",
+        "MUNICIPIO": "Sao José do Calçado",
         "LOGRADOURO": "Rua Doutor José Fernando Medina, 399, Centro, São José do Calçado"
     },
     {
@@ -3044,7 +3044,7 @@
         "LAT": "-21,1236001239434",
         "AGENCIA": "Polícia Militar",
         "NOME": "3ª COMPANHIA DO 3º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Bom Jesus do Norte",
+        "MUNICIPIO": "Bom Jesus do Norte",
         "LOGRADOURO": "Rua Lourival Calvichine, Belvedere, Bom Jesus do Norte"
     },
     {
@@ -3052,7 +3052,7 @@
         "LAT": "-21,1246980935659",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE BOM JESUS DO NORTE",
-        "NOME_MUNIC": "Bom Jesus do Norte",
+        "MUNICIPIO": "Bom Jesus do Norte",
         "LOGRADOURO": "Rua Pedro Casemiro de Campos, 85, São Sebastião,"
     },
     {
@@ -3060,7 +3060,7 @@
         "LAT": "-21,1592961476678",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE APIACÁ",
-        "NOME_MUNIC": "Apiacá",
+        "MUNICIPIO": "Apiacá",
         "LOGRADOURO": "Rua Jader Filho, 41, Francisco Jorge da Silva, Apiacá"
     },
     {
@@ -3068,7 +3068,7 @@
         "LAT": "-21,1504011732094",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE APIACÁ",
-        "NOME_MUNIC": "Apiacá",
+        "MUNICIPIO": "Apiacá",
         "LOGRADOURO": "Rua Augusta Cesário, 52, Centro Apiacá"
     },
     {
@@ -3076,7 +3076,7 @@
         "LAT": "-21,0608977886711",
         "AGENCIA": "Polícia Militar",
         "NOME": "15ª COMPANHIA INDEPENDENTE DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Mimoso do Sul",
+        "MUNICIPIO": "Mimoso do Sul",
         "LOGRADOURO": "Avenida Presidente Vargas, 384, Penedo, Mimoso do Sul"
     },
     {
@@ -3084,7 +3084,7 @@
         "LAT": "-21,0632976187534",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE MIMOSO DO SUL",
-        "NOME_MUNIC": "Mimoso do Sul",
+        "MUNICIPIO": "Mimoso do Sul",
         "LOGRADOURO": "Rua Colina de Araribóia, Centro, Mimoso do Sul"
     },
     {
@@ -3092,7 +3092,7 @@
         "LAT": "-19,0559009451515",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE ALTO RIO NOVO",
-        "NOME_MUNIC": "Alto Rio Novo",
+        "MUNICIPIO": "Alto Rio Novo",
         "LOGRADOURO": "Rua João Felipe, Centro, Alto Rio Novo"
     },
     {
@@ -3100,7 +3100,7 @@
         "LAT": "-19,0584989358725",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ALTO RIO NOVO",
-        "NOME_MUNIC": "Alto Rio Novo",
+        "MUNICIPIO": "Alto Rio Novo",
         "LOGRADOURO": "Rua Paulo Martins, Centro, Alto Rio Novo"
     },
     {
@@ -3108,7 +3108,7 @@
         "LAT": "-18,3733944879812",
         "AGENCIA": "Polícia Militar",
         "NOME": "UIP - DPM DE ECOPORANGA",
-        "NOME_MUNIC": "Ecoporanga",
+        "MUNICIPIO": "Ecoporanga",
         "LOGRADOURO": "Rua José da Cruz, 185, Centro, Ecoporanga"
     },
     {
@@ -3116,7 +3116,7 @@
         "LAT": "-18,3729979255373",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE ECOPORANGA",
-        "NOME_MUNIC": "Ecoporanga",
+        "MUNICIPIO": "Ecoporanga",
         "LOGRADOURO": "Rua José da Cruz, Centro, Ecoporanga"
     },
     {
@@ -3124,7 +3124,7 @@
         "LAT": "-18,5488008590825",
         "AGENCIA": "Polícia Militar",
         "NOME": "2ª COMPANHIA DO 11º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Água Doce do Norte",
+        "MUNICIPIO": "Água Doce do Norte",
         "LOGRADOURO": "Rua Joaquim de Souza, Centro, Água Doce do Norte"
     },
     {
@@ -3132,7 +3132,7 @@
         "LAT": "-18,5397952758153",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BOA ESPERANÇA",
-        "NOME_MUNIC": "Boa Esperança",
+        "MUNICIPIO": "Boa Esperança",
         "LOGRADOURO": "Avenida São Paulo, 209, Nova Cidade, Boa Esperança"
     },
     {
@@ -3140,7 +3140,7 @@
         "LAT": "-18,5393966029557",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE BOA ESPERANCA",
-        "NOME_MUNIC": "Boa Esperança",
+        "MUNICIPIO": "Boa Esperança",
         "LOGRADOURO": "Rua Doutor Pedro Hekenhoff, 327, Centro, Boa Esperança"
     },
     {
@@ -3148,7 +3148,7 @@
         "LAT": "-19,2265016860914",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 3ª COMPANHIA DO 8º BATALHÃO",
-        "NOME_MUNIC": "Pancas",
+        "MUNICIPIO": "Pancas",
         "LOGRADOURO": "Rodovia José Alves de Oliveira, ES-341, Nilton Sá, Pancas"
     },
     {
@@ -3156,7 +3156,7 @@
         "LAT": "-19,2229057284198",
         "AGENCIA": "Polícia Militar",
         "NOME": "2º PELOTÃO DA 3ª COMPANHIA DO 8º BATALHÃO",
-        "NOME_MUNIC": "Pancas",
+        "MUNICIPIO": "Pancas",
         "LOGRADOURO": "Avenida 13 de Maio, 622, Centro, Pancas"
     },
     {
@@ -3164,7 +3164,7 @@
         "LAT": "-18,9724054094559",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE VILA VERDE",
-        "NOME_MUNIC": "Pancas",
+        "MUNICIPIO": "Pancas",
         "LOGRADOURO": "Rua Januário Ribeiro, Vila Verde, Pancas"
     },
     {
@@ -3172,7 +3172,7 @@
         "LAT": "-19,2251057693948",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE POLÍCIA DE PANCAS",
-        "NOME_MUNIC": "Pancas",
+        "MUNICIPIO": "Pancas",
         "LOGRADOURO": "Rua Diamante, 392, Centro, Pancas"
     },
     {
@@ -3180,7 +3180,7 @@
         "LAT": "-19,5077015827345",
         "AGENCIA": "Polícia Militar",
         "NOME": "DPM DE BAIXO GUANDU",
-        "NOME_MUNIC": "Baixo Guandú",
+        "MUNICIPIO": "Baixo Guandú",
         "LOGRADOURO": "Avenida Rio Doce, Sapucaia, Baixo Guandu"
     },
     {
@@ -3188,7 +3188,7 @@
         "LAT": "-19,5073994702433",
         "AGENCIA": "Polícia Militar",
         "NOME": "12ª COMPANHIA DO 8º BATALHÃO DE POLÍCIA MILITAR",
-        "NOME_MUNIC": "Baixo Guandú",
+        "MUNICIPIO": "Baixo Guandú",
         "LOGRADOURO": "Rua Pedro Álvares Cabral, Rosário I, Baixo Guandu"
     },
     {
@@ -3196,7 +3196,7 @@
         "LAT": "-19,5199998371506",
         "AGENCIA": "Polícia Civil",
         "NOME": "DELEGACIA DE BAIXO GUANDU",
-        "NOME_MUNIC": "Baixo Guandú",
+        "MUNICIPIO": "Baixo Guandú",
         "LOGRADOURO": "Rua Eraldo Nunes Ferreira, São Pedro, Baixo Guandu"
     }
 ]

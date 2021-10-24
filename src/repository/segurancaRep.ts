@@ -4,11 +4,16 @@ const findAll = () => {
     return data
 }
 
-const findByAgencia = (agencia: string) => {
+const findByAgencia = (agencia: any) => {
     return data.filter( item =>  item.AGENCIA === agencia )
+}
+
+const findMunicipio = (MUNICIPIO: any) =>{
+    return data.filter(item => item.MUNICIPIO === MUNICIPIO)
 }
 
 export {
     findAll,
-    findByAgencia
+    findByAgencia,
+    findMunicipio
 }
