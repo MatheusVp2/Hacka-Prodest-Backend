@@ -37,7 +37,7 @@ A equipe organizadora do hackaton deixou livre a escolha das tecnologias, então
 * [Node](https://nodejs.org/en/) - API
 * [JavaScript](https://www.javascript.com/) - Front-end
 
-### ✨ Tecnologias
+### ✨ Dados
 
 * [Dataset GOV](https://dados.es.gov.br/dataset/)
 * [Ceturb](https://sistemas.es.gov.br/webservices/ceturb/onibus/Help)
