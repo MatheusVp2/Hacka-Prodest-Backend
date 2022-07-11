@@ -20,7 +20,6 @@ def getJsonEducacao(dado):
     }
 
 novosDados = []
-carai = [  ]
 
 for dado in json_data:
     if dado['OPERACION'] == 'Sim':
